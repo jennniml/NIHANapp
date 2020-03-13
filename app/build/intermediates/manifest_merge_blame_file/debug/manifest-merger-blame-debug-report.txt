@@ -1,0 +1,98 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.ngamolsky.android.materialme"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="19"
+8-->C:\Users\sheck\Downloads\MaterialMe\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="26" />
+9-->C:\Users\sheck\Downloads\MaterialMe\app\src\main\AndroidManifest.xml
+10
+11    <application
+11-->C:\Users\sheck\Downloads\MaterialMe\app\src\main\AndroidManifest.xml:5:5-38:19
+12        android:allowBackup="true"
+12-->C:\Users\sheck\Downloads\MaterialMe\app\src\main\AndroidManifest.xml:6:9-35
+13        android:debuggable="true"
+14        android:icon="@mipmap/ic_launcher"
+14-->C:\Users\sheck\Downloads\MaterialMe\app\src\main\AndroidManifest.xml:7:9-43
+15        android:label="@string/app_name"
+15-->C:\Users\sheck\Downloads\MaterialMe\app\src\main\AndroidManifest.xml:8:9-41
+16        android:supportsRtl="true"
+16-->C:\Users\sheck\Downloads\MaterialMe\app\src\main\AndroidManifest.xml:9:9-35
+17        android:testOnly="true"
+18        android:theme="@style/AppTheme" >
+18-->C:\Users\sheck\Downloads\MaterialMe\app\src\main\AndroidManifest.xml:10:9-40
+19        <activity
+19-->C:\Users\sheck\Downloads\MaterialMe\app\src\main\AndroidManifest.xml:11:9-13:86
+20            android:name="com.example.android.nihanapp.DiabetesActivity"
+20-->C:\Users\sheck\Downloads\MaterialMe\app\src\main\AndroidManifest.xml:12:13-73
+21            android:parentActivityName="com.example.android.nihanapp.MainActivity" />
+21-->C:\Users\sheck\Downloads\MaterialMe\app\src\main\AndroidManifest.xml:13:13-83
+22        <activity
+22-->C:\Users\sheck\Downloads\MaterialMe\app\src\main\AndroidManifest.xml:14:9-16:86
+23            android:name="com.example.android.nihanapp.SafeSexActivity"
+23-->C:\Users\sheck\Downloads\MaterialMe\app\src\main\AndroidManifest.xml:15:13-72
+24            android:parentActivityName="com.example.android.nihanapp.MainActivity" />
+24-->C:\Users\sheck\Downloads\MaterialMe\app\src\main\AndroidManifest.xml:16:13-83
+25        <activity
+25-->C:\Users\sheck\Downloads\MaterialMe\app\src\main\AndroidManifest.xml:17:9-19:86
+26            android:name="com.example.android.nihanapp.TravelActivity"
+26-->C:\Users\sheck\Downloads\MaterialMe\app\src\main\AndroidManifest.xml:18:13-71
+27            android:parentActivityName="com.example.android.nihanapp.MainActivity" />
+27-->C:\Users\sheck\Downloads\MaterialMe\app\src\main\AndroidManifest.xml:19:13-83
+28        <activity
+28-->C:\Users\sheck\Downloads\MaterialMe\app\src\main\AndroidManifest.xml:20:9-22:86
+29            android:name="com.example.android.nihanapp.CaneWalkerActivity"
+29-->C:\Users\sheck\Downloads\MaterialMe\app\src\main\AndroidManifest.xml:21:13-75
+30            android:parentActivityName="com.example.android.nihanapp.MainActivity" />
+30-->C:\Users\sheck\Downloads\MaterialMe\app\src\main\AndroidManifest.xml:22:13-83
+31        <activity
+31-->C:\Users\sheck\Downloads\MaterialMe\app\src\main\AndroidManifest.xml:23:9-25:86
+32            android:name="com.example.android.nihanapp.CareActivity"
+32-->C:\Users\sheck\Downloads\MaterialMe\app\src\main\AndroidManifest.xml:24:13-69
+33            android:parentActivityName="com.example.android.nihanapp.MainActivity" />
+33-->C:\Users\sheck\Downloads\MaterialMe\app\src\main\AndroidManifest.xml:25:13-83
+34        <activity
+34-->C:\Users\sheck\Downloads\MaterialMe\app\src\main\AndroidManifest.xml:26:9-28:86
+35            android:name="com.example.android.nihanapp.WalkingActivity"
+35-->C:\Users\sheck\Downloads\MaterialMe\app\src\main\AndroidManifest.xml:27:13-72
+36            android:parentActivityName="com.example.android.nihanapp.MainActivity" />
+36-->C:\Users\sheck\Downloads\MaterialMe\app\src\main\AndroidManifest.xml:28:13-83
+37        <activity android:name="com.example.android.nihanapp.MainActivity" >
+37-->C:\Users\sheck\Downloads\MaterialMe\app\src\main\AndroidManifest.xml:29:9-35:20
+37-->C:\Users\sheck\Downloads\MaterialMe\app\src\main\AndroidManifest.xml:29:19-75
+38            <intent-filter>
+38-->C:\Users\sheck\Downloads\MaterialMe\app\src\main\AndroidManifest.xml:30:13-34:29
+39                <action android:name="android.intent.action.MAIN" />
+39-->C:\Users\sheck\Downloads\MaterialMe\app\src\main\AndroidManifest.xml:31:17-69
+39-->C:\Users\sheck\Downloads\MaterialMe\app\src\main\AndroidManifest.xml:31:25-66
+40
+41                <category android:name="android.intent.category.LAUNCHER" />
+41-->C:\Users\sheck\Downloads\MaterialMe\app\src\main\AndroidManifest.xml:33:17-77
+41-->C:\Users\sheck\Downloads\MaterialMe\app\src\main\AndroidManifest.xml:33:27-74
+42            </intent-filter>
+43        </activity>
+44        <activity
+44-->C:\Users\sheck\Downloads\MaterialMe\app\src\main\AndroidManifest.xml:36:9-37:85
+45            android:name="com.example.android.nihanapp.DetailActivity"
+45-->C:\Users\sheck\Downloads\MaterialMe\app\src\main\AndroidManifest.xml:36:19-77
+46            android:parentActivityName="com.example.android.nihanapp.MainActivity" />
+46-->C:\Users\sheck\Downloads\MaterialMe\app\src\main\AndroidManifest.xml:37:13-83
+47
+48        <meta-data
+48-->[com.android.support:design:26.1.0] C:\Users\sheck\.gradle\caches\transforms-2\files-2.1\20002896a77046aac10817efbb717d4b\design-26.1.0\AndroidManifest.xml:26:9-28:38
+49            android:name="android.support.VERSION"
+49-->[com.android.support:design:26.1.0] C:\Users\sheck\.gradle\caches\transforms-2\files-2.1\20002896a77046aac10817efbb717d4b\design-26.1.0\AndroidManifest.xml:27:13-51
+50            android:value="26.1.0" />
+50-->[com.android.support:design:26.1.0] C:\Users\sheck\.gradle\caches\transforms-2\files-2.1\20002896a77046aac10817efbb717d4b\design-26.1.0\AndroidManifest.xml:28:13-35
+51        <meta-data
+51-->[android.arch.lifecycle:runtime:1.0.0] C:\Users\sheck\.gradle\caches\transforms-2\files-2.1\cbd00f137ffe055a54edb27e1642d0f7\runtime-1.0.0\AndroidManifest.xml:25:9-27:47
+52            android:name="android.arch.lifecycle.VERSION"
+52-->[android.arch.lifecycle:runtime:1.0.0] C:\Users\sheck\.gradle\caches\transforms-2\files-2.1\cbd00f137ffe055a54edb27e1642d0f7\runtime-1.0.0\AndroidManifest.xml:26:13-58
+53            android:value="27.0.0-SNAPSHOT" />
+53-->[android.arch.lifecycle:runtime:1.0.0] C:\Users\sheck\.gradle\caches\transforms-2\files-2.1\cbd00f137ffe055a54edb27e1642d0f7\runtime-1.0.0\AndroidManifest.xml:27:13-44
+54    </application>
+55
+56</manifest>

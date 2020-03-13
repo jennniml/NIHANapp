@@ -1,0 +1,276 @@
+<!--
+  Copyright 2018 Google Inc.
+
+  Licensed under the Apache License, Version 2.0 (the "License");
+  you may not use this file except in compliance with the License.
+  You may obtain a copy of the License at
+
+      http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+  -->
+<resources>
+    <string name="app_name">NIHAN</string>
+    <string name="title_placeholder">Title</string>
+    <string name="news_placeholder">Helpful tips coming soon!</string>
+    <string name="sports_info_placeholder">Here is some news</string>
+    <string name="subtitle_detail_text">Lorem ipsum dolor sit amet,
+        consectetur adipiscing elit. Praesent ultrices congue rutrum.
+        Phasellus elementum ipsum ac convallis aliquam. Suspendisse eleifend
+        eros a enim faucibus mollis. Nunc placerat, est vitae vestibulum
+        blandit, dolor diam fringilla tellus, eu euismod mauris neque
+        at neque.</string>
+    <string name="walking1">Walking Info!!!</string>
+
+    <string-array name="tips_titles">
+        <item>Walking Tips for Older Adults</item>
+        <item>Choosing the Right Cane or Walker</item>
+        <item>Safe Travel Tips for Older Adults</item>
+        <item>Safe Sex for Older Adults</item>
+        <item>Tips for Living with Diabetes</item>
+        <item>Tips for Avoiding Caregiver Burnout</item>
+    </string-array>
+
+    <string-array name="tips_info">
+        <item>Here is some walking tips!</item>
+        <item>Here is some information about choosing the right cane or walker!</item>
+        <item>Here is some travel tips!</item>
+        <item>Here is some tips for safe sex!</item>
+        <item>Here is some tips for living with diabetes!</item>
+        <item>Here is some tips for avoiding caregiver burnout!</item>
+    </string-array>
+
+    <array name="tips_images">
+        <item>@drawable/img_walk</item>
+        <item>@drawable/img_cane</item>
+        <item>@drawable/img_travel</item>
+        <item>@drawable/img_sex</item>
+        <item>@drawable/img_diabete</item>
+        <item>@drawable/img_care</item>
+    </array>
+
+
+    <!--
+        Walking Tips Activity
+    -->
+
+    <string name="walk_header2_1">
+        Walking is the most popular form of exercise among older adults and it’s a great choice.
+    </string>
+
+    <string name="walk_text1">
+        If it’s been a long time since you exercised, you may want to start out slowly. You can start with
+        just 5 minutes and build up to the recommended 30 minutes a day. Your goal should be to get up to
+        taking 100 steps a minute. Remember, the most important thing is to just get started.
+    </string>
+
+    <string name="walk_header3_1">What can walking do for you? </string>
+
+    <string name="walk_list1">
+        <li>strengthen muscles</li>\n
+        <li>help prevent weight gain</li>\n
+        <li>lower risks of heart disease, stroke, diabetes, and osteoporosis</li>\n
+        <li>improve balance</li>\n
+        <li>lower the likelihood of falling</li>
+    </string>
+
+    <string name="walk_header1_1">Take These Steps to Get Walking</string>
+
+    <string name="walk_header2_2">Join a walking program or walk with a buddy</string>
+
+    <string name="walk_text2">
+        Chances are you’ll stick with a walking program if you have someone to walk with. Some shopping malls or town parks may
+        have these programs. The National Institute on Aging’s Go4Life campaign has many resources for walking and other kinds of physical
+        activity (https://go4life.nia.nih.gov/).
+    </string>
+
+    <string name="walk_header2_3">Wear the right shoes</string>
+
+    <string name="walk_text3">
+        Comfortable sneakers work well for most people. If you have foot problems, you may want to look into orthopedic shoes or
+        talk to your healthcare provider about how you can continue your walking program.
+    </string>
+
+    <string name="walk_header2_4">Don’t let a cane or walker stop you</string>
+
+    <string name="walk_text4">
+        It’s OK to use your cane or walker if you already have one. These can improve your balance and help take the load off painful joints.
+    </string>
+
+    <string name="walk_header2_5">Aim for the right pace</string>
+
+    <string name="walk_text5">
+        Try to walk as fast as you can, but still be able to chat with a friend while walking. Aim to work as hard as you do when you
+        climb up the stairs.
+    </string>
+
+    <string name="walk_header2_6">Talk to your healthcare provider if you have any problems</string>
+
+    <string name="walk_text6">
+        Tell your healthcare provider if you have any pain or problems walking. Otherwise, don’t let a health problem keep you from
+        getting started. You may feel a little stiff and achy as you start walking, but many people feel better once they start moving!
+    </string>
+
+    <string name="walk_header1_2">3 Tips for Safe Walking</string>
+
+    <string name="walk_header2_7">Be Aware of Your Surroundings</string>
+
+    <string name="walk_text7">
+        Plan to walk during the daytime or in well-lit areas in the evenings. Keep an eye out for uneven surfaces, possible obstacles,
+        and other tripping hazards.
+    </string>
+
+    <string name="walk_header2_8">Keep Hydrated</string>
+
+    <string name="walk_text8">
+        Bring a bottle of water (or other low-calorie liquid) with you and be sure to drink plenty of fluids if you sweat.
+    </string>
+
+    <string name="walk_header2_9">Dress Properly for the Weather</string>
+
+    <string name="walk_text9">
+        If walking outside, wear layers of clothing so that you can take off a layer if you’re hot, or put one on if too cold.
+    </string>
+
+
+    <!--
+        Cane/Walker Tips Activity
+    -->
+
+    <string name="cane_text1">
+        Canes and walkers help people with pain, weakness, and
+balance problems walk more safely and comfortably. They also
+may help some people avoid falls. There are many types of
+canes, walkers, crutches and other assistive devices available, so
+it’s very important to:
+    </string>
+    <string name="cane_list1">
+            <li>work with a healthcare provider (physical therapist, doctor,
+nurse) to choose the correct type of walking aid for you</li> \n
+            <li>have the cane or walker sized so it fits you correctly</li> \n
+            <li>get help learning how to use it the right way</li>
+        </string>
+    <string name="cane_text2">In most cases, canes and walkers are reimbursable through Medicare and other insurers.</string>
+
+    <string name="cane_header1_1">Which Should I Choose?</string>
+    <string name="cane_text3">If you feel you need a cane or walker, talk to your healthcare
+provider to make sure you get the device that is best for you. When deciding between a cane or
+walker, discuss the following points with your healthcare provider:</string>
+    <string name="cane_q1">What is the main
+    reason you need the
+    device?</string>
+    <string name="cane_q2">How much of your
+    weight does the
+    device need to
+    support?</string>
+    <string name="cane_q3">Most common
+    types</string>
+    <string name="cane_q4">Other things to
+think about</string>
+    <string name="cane_c1"><li>Arthritis or pain, especially of the
+        knees and hips, and on one side</li>\n <li>Mild balance problems</li>\n <li>Injuries to one foot or leg</li></string>
+    <string name="cane_c2">You can support up to <b>25%</b> of your
+weight with a cane.</string>
+    <string name="cane_c3"><li>Single point canes can help with
+        early balance problems</li>\n <li>Four point or “quad” canes add
+more stability and help even more
+        with balance</li>\n <li>Seat canes have small attached
+seats so you can take a rest while
+        using them</li></string>
+    <string name="cane_c4"><li>All canes must have a non-skid
+rubber tip</li>\n<li>Curved, rounded, or grip handles
+help with balance and to lower
+        stress on your hand</li>\n <li>Canes are not as stable as walkers</li></string>
+
+    <string name="cane_w1"><li>Arthritis or pain, especially of the knees
+        and hips, on both sides</li>\n <li>Medium to bad balance and gait
+        problems</li>\n <li>General weakness or weakness of both
+legs</li></string>
+    <string name="cane_w2">You can support up to <b>50%</b> of your weight
+with some walkers.</string>
+    <string name="cane_w3"><li>Standard walkers need to be picked up
+        to move forward</li>\n <li>Front-wheeled walkers don’t need to be
+picked up, so they take less energy to
+        use</li>\n <li>Rolling 4-wheeled walkers give support
+and come with or without seats and
+brakes</li></string>
+    <string name="cane_w4"><li>Walkers should have rubber grips for
+        your hands so they don’t slip</li>\n <li>Front-wheeled walkers must have
+        non-skid tips on the back legs</li>\n <li>Walkers cannot be used on stairs</li></string>
+
+
+    Most common
+    types
+
+    <string name="cane_header1_2">How to Get a Proper Fit for Your Cane or Walker</string>
+    <string name="cane_textList1">The correct length of a cane or walker is measured from the wrist to the floor.</string>
+    <string name="cane_textList2">To measure:</string>
+    <string name="cane_textList3">
+        <li>Wear your normal shoes.</li>\n
+        <li>Let your arm hang loosely at your side.</li>\n
+        <li>Ask someone else to measure the distance from your wrist to the floor.</li>
+    </string>
+    <string name="cane_textList4"><li>This measurement should be about equal to the distance from the point where
+    your leg bone fits into the hip socket to the floor.</li></string>
+    <string name="cane_textList5"><li>Have your cane or walker adjusted so that the tops of it is that same distance from
+    the floor.</li></string>
+    <string name="cane_textList6"><li>Aluminum canes and most walkers are adjusted by pushing in buttons on each
+    side and sliding the tubing to the new length until the buttons lock in place.
+    </li>\n <li>Wood canes can be cut to size.</li></string>
+    <string name="cane_textList7"><li>Put your hand on the cane or walker handle. If the length is correct, you will notice
+    a 20-degree to 30-degree bend in the elbow. (If your upper arm is at 12 o’clock, your
+    hand points to 5 o’clock.)</li></string>
+    <string name="cane_textList8">If your cane or walker does not feel right, ask your physician or physical
+therapist to check the fit.</string>
+
+
+    <string name="cane_header1_3">5 Steps to Safely Using Your Cane</string>
+<string name="cane_textNum_1">Use the cane on the opposite side
+of your injury, pain, or weakness
+(unless your healthcare provider
+tells you not to).</string>
+    <string name="cane_textNum_2">Put all of your weight on your bad
+leg.</string>
+    <string name="cane_textNum_3">Move the cane and your bad leg a
+comfortable distance forward.</string>
+    <string name="cane_textNum_4">With your weight supported on
+both your cane and your bad leg,
+step through with your bad leg.</string>
+    <string name="cane_textNum_5">Place your cane firmly on the
+ground before you take a step.
+Do not place your cane too far
+ahead of you, or it could slip
+from under you.</string>
+
+    <string name="cane_header1_4">5 Steps to Safely Using Your Walker</string>
+<string name="cane_textNum_6">Stand with your toes halfway between
+the front and back tips or wheels.
+Roll or lift your walker a step’s length
+ahead of you
+</string>
+    <string name="cane_textNum_7">Place the walker firmly on the ground.
+Do not place your walker too far
+ahead of you, or it could slip from
+under you.</string>
+    <string name="cane_textNum_8">Lean slightly forward, and hold the
+arms of the walker for support.
+</string>
+    <string name="cane_textNum_9">Take a step.</string>
+    <string name="cane_textNum_10">Repeat the cycle: Place your walker
+firmly on the ground (or roll it ahead
+of you), then take a step.</string>
+
+    <string name="cane_header2_1">Get Non-Skid Rubber Tips
+for Your Cane or Walker</string>
+    <string name="cane_text">Non-skid rubber tips help keep you from
+slipping. Check tips often and change them if
+they look worn. These tips are available through
+your local pharmacy or medical supply store.</string>
+    <string name="cane_header2_2"><i>Tennis balls cut and placed on the rubber tips can be helpful for ease of movement on carpeted surfaces.</i></string>
+
+
+</resources>
