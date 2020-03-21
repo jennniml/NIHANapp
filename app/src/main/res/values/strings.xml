@@ -55,7 +55,7 @@
 
 
     <!--
-        Walking Tips Activity
+            Walking Tips Activity
     -->
 
     <string name="walk_header2_1">
@@ -138,7 +138,7 @@
 
 
     <!--
-        Cane/Walker Tips Activity
+            Cane/Walker Tips Activity
     -->
 
     <string name="cane_text1">
@@ -239,7 +239,7 @@
 
 
     <!--
-        Travel Tips Activity
+            Travel Tips Activity
     -->
 
     <string name="travel_text">
@@ -249,40 +249,40 @@
         home, it is important to plan ahead for your healthcare needs.
     </string>
 
-    <string name="travel_header1">Find out if you need to update your vaccinations</string>
-    <string name="travel_header2">Talk to your healthcare provider</string>
-    <string name="travel_header3">Ask when you should take your medications</string>
-    <string name="travel_header4">Guard against deep-vein thrombosis (DVT)</string>
-    <string name="travel_header5">Get it in writing</string>
-    <string name="travel_header6">Keep your medications in their original containers with labels</string>
-    <string name="travel_header7">Carry your medications on the plane</string>
-    <string name="travel_header8">Protect yourself from infection and dehydration</string>
+    <string name="travel_header2_1">Find out if you need to update your vaccinations</string>
+    <string name="travel_header2_2">Talk to your healthcare provider</string>
+    <string name="travel_header2_3">Ask when you should take your medications</string>
+    <string name="travel_header2_4">Guard against deep-vein thrombosis (DVT)</string>
+    <string name="travel_header2_5">Get it in writing</string>
+    <string name="travel_header2_6">Keep your medications in their original containers with labels</string>
+    <string name="travel_header2_7">Carry your medications on the plane</string>
+    <string name="travel_header2_8">Protect yourself from infection and dehydration</string>
 
-    <string name="travel_h1text">
+    <string name="travel_text1">
         <b>If you are traveling overseas, you may need certain vaccinations before departing—in some cases, up to 6 weeks before you leave.</b>
         Visit the Centers for Disease Control and Prevention’s (CDC) Travelers’ Health website <b>https://wwwnc.cdc.gov/travel/page/travel-vaccines</b>
         to learn what measures you and your fellow travelers may be required to follow when traveling abroad.
     </string>
     
-    <string name="travel_h2text">
+    <string name="travel_text2">
         <b>Explain your travel plans to your healthcare provider</b>, and discuss any travel precautions you should take. Your provider may ask you to come
         in for a checkup or to get any necessary shots.
     </string>
     
-    <string name="travel_h3text">
+    <string name="travel_text3">
         <b>If you take medications, and will be crossing time zones</b>, ask your healthcare provider whether you should take your medicines at your usual 
         time in your home time zone, or if you should switch to the local time zone. Also ask if any new foods you might eat while traveling could interact 
         with your medications or health conditions.
     </string>
     
-    <string name="travel_h4text">
+    <string name="travel_text4">
         <b>Older adults run a higher-than-average risk of DVT</b>, which happens when blood clots form in your veins and block blood flow, usually in your legs. 
         Sitting still for a long time on an airplane, train, or car can contribute to DVT. But some research shows that wearing “compression stockings” can help 
         prevent this dangerous condition. Also, taking frequent breaks to walk or exercise your legs during a long ride can help protect you from developing DVT. 
         Check with your healthcare provider.
     </string>
     
-    <string name="travel_h5text">
+    <string name="travel_text5">
         <li><b>Make a list of all prescriptions, including over-the-counter medications and supplements you take</b>, including the dose, what time you take the
             medications, and what they are for. Ask your pharmacist or healthcare provider to help you create this list and ask them to review it for accuracy.
             The list should include both generic and brand drug names and the amount of each medication you need to take with you on your trip.</li>\n
@@ -292,13 +292,13 @@
         Make a copy of these lists. Carry one with you, and keep the other in your suitcase.
     </string>
 
-    <string name="travel_h6text">
+    <string name="travel_text6">
         <b>Do this with prescription and over-the-counter medicines, and supplements.</b> This will also make your trip through customs easier.
     </string>
 
-    <string name="travel_h7text"><b>Pack your medications in your carry-on bag</b> to avoid loss or damage.</string>
+    <string name="travel_text7"><b>Pack your medications in your carry-on bag</b> to avoid loss or damage.</string>
 
-    <string name="travel_h8text">
+    <string name="travel_text8">
         <li><b>Wash your hands or use an alcohol-based hand sanitizer</b>, especially after spending time on a crowded plane, train, or bus, and before eating.</li>\n
         <li><b>Use common sense when choosing what to eat and drink.</b> Avoid brushing your teeth with water that isn’t safe to drink. The CDC travel site
             <b>http://wwwnc.cdc.gov/travel/</b> includes country-by-country information on illnesses you can get from food and water and how to avoid them.</li>\n
@@ -306,5 +306,57 @@
             and drink reguarly even if you do not feel thirsty. Or ask for water every time the flight attendant offers a drink instead of soda or coffee, which can
             dry you out even more.</li>
     </string>
+
+
+    <!--
+            Safe Sex Tips Activity
+    -->
+
+    <string name="safesex_text">
+        Many older adults are remaining or becoming sexually active. This is because of better health among older adults, longer lifespans, more open attitudes 
+        toward sexuality, internet dating, and the availability of medications like Viagra and estrogen products. Sex can still be satisfying but will be different 
+        from younger years, and might need to be adapted for current age, disability, illness, or surgery-induced body changes. Older adults are more vulnerable to 
+        sexually transmitted infections (STIs) than younger adults. Everyone should use safe sex practices.
+    </string>
+    
+    <string name="safesex_header3">Here are 4 tips on having and enjoying safe sex, no matter what your age.</string>
+
+    <string name="safesex_header2_1">Do a background and body check</string>
+    <string name="safesex_header2_2">Consider getting tested first</string>
+    <string name="safesex_header2_3">Use a condom and lubricant</string>
+    <string name="safesex_header2_4">Talk to your healthcare provider</string>
+
+    <string name="safesex_text1">
+        Know your partner’s sexual background before having oral, vaginal, or anal sex. All types of sex can spread STIs. Talk about your sexual histories, any past STIs,
+        results of STI testing, and whether either of you has ever injected illegal drugs. (Besides sex, HIV/AIDS can also be acquired by sharing syringe needles.)
+        Before having sex, check your partner’s penis or vaginal area for sores, abnormal discharges, or odors.
+    </string>
+
+    <string name="safesex_text2">
+        The best way to protect yourself and your partner is for the two of you to get tested for HIV and other STIs before you start having sex. A person can have an
+        STI and not know it because the symptoms are not obvious. And some symptoms of STIs or HIV, such as tiredness, can be mistaken for age-related health problems.
+    </string>
+
+    <string name="safesex_text3">
+        Use one condom and lubricant every time you have vaginal, oral, or anal sex, including during foreplay, until you know your partner’s sexual history,
+        STI status, and are in a sexually exclusive relationship. Using water-based lubricants such as K-Y Jelly and Astroglide is important because they can
+        lower the chances of getting a sore or tiny cut on the penis or inside the vagina. These sores and cuts can increase the risk of getting STIs. Do not
+        use Vaseline or mineral oil with condoms because it destroys the condom lining. Put the condom on after the penis is erect, leaving a 1/2 inch space
+        at the tip. Hold the condom at the base (open end) as you remove it. Do not use the same condom twice. Do not use expired condoms.
+    </string>
+
+    <string name="safesex_text4">
+        Your healthcare provider can offer additional advice about protecting yourself from STIs and when sex is safe with certain medical conditions such as after
+        a heart attack. Your provider can also recommend treatments for common sexual problems such as vaginal dryness and erectile dysfunction (difficulty getting
+        an erection, also known as ED). They can also recommend treatments for conditions that can affect your sex life, such as incontinence. \n
+        Effective treatments for vaginal dryness include over-the-counter moisturizers, lubricants, and prescription estrogen creams, tablets, and rings that you
+        insert vaginally. \n
+        ED increases with age, but it is not always a part of growing older. ED can be due to medical conditions such as heart disease or diabetes or emotional problems
+        such as depression, anxiety, and stress. It can also be due to side effects from medications such as antidepressants or high blood pressure drugs, as well as
+        alcohol use. \n
+        Because ED may be the first sign of an underlying medical condition, talk to your healthcare provider if you experience this problem. Medications exist to help
+        resolve ED problems. Before using ED medications and over the counter and herbal sex aids, make sure to discuss them with your provider or pharmacist.
+    </string>
+
 
 </resources>
