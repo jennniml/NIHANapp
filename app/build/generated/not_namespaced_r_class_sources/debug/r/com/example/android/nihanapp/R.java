@@ -2094,7 +2094,7 @@ public final class R {
      * <tr><td>barrier</td><td>2</td><td></td></tr>
      * <tr><td>chains</td><td>4</td><td></td></tr>
      * <tr><td>dimensions</td><td>8</td><td></td></tr>
-     * <tr><td>direct</td><td>1</td><td>direct, barriers, chains</td></tr>
+     * <tr><td>direct</td><td>1</td><td></td></tr>
      * <tr><td>groups</td><td>20</td><td></td></tr>
      * <tr><td>none</td><td>0</td><td></td></tr>
      * <tr><td>standard</td><td>7</td><td></td></tr>
@@ -4124,29 +4124,46 @@ public final class R {
     public static final int status_bar_notification_info_overflow=0x7f0d0054;
     public static final int subtitle_detail_text=0x7f0d0055;
     public static final int title_placeholder=0x7f0d0056;
-    public static final int walk_header1_1=0x7f0d0057;
-    public static final int walk_header1_2=0x7f0d0058;
-    public static final int walk_header2_1=0x7f0d0059;
-    public static final int walk_header2_2=0x7f0d005a;
-    public static final int walk_header2_3=0x7f0d005b;
-    public static final int walk_header2_4=0x7f0d005c;
-    public static final int walk_header2_5=0x7f0d005d;
-    public static final int walk_header2_6=0x7f0d005e;
-    public static final int walk_header2_7=0x7f0d005f;
-    public static final int walk_header2_8=0x7f0d0060;
-    public static final int walk_header2_9=0x7f0d0061;
-    public static final int walk_header3_1=0x7f0d0062;
-    public static final int walk_list1=0x7f0d0063;
-    public static final int walk_text1=0x7f0d0064;
-    public static final int walk_text2=0x7f0d0065;
-    public static final int walk_text3=0x7f0d0066;
-    public static final int walk_text4=0x7f0d0067;
-    public static final int walk_text5=0x7f0d0068;
-    public static final int walk_text6=0x7f0d0069;
-    public static final int walk_text7=0x7f0d006a;
-    public static final int walk_text8=0x7f0d006b;
-    public static final int walk_text9=0x7f0d006c;
-    public static final int walking1=0x7f0d006d;
+    public static final int travel_h1text=0x7f0d0057;
+    public static final int travel_h2text=0x7f0d0058;
+    public static final int travel_h3text=0x7f0d0059;
+    public static final int travel_h4text=0x7f0d005a;
+    public static final int travel_h5text=0x7f0d005b;
+    public static final int travel_h6text=0x7f0d005c;
+    public static final int travel_h7text=0x7f0d005d;
+    public static final int travel_h8text=0x7f0d005e;
+    public static final int travel_header1=0x7f0d005f;
+    public static final int travel_header2=0x7f0d0060;
+    public static final int travel_header3=0x7f0d0061;
+    public static final int travel_header4=0x7f0d0062;
+    public static final int travel_header5=0x7f0d0063;
+    public static final int travel_header6=0x7f0d0064;
+    public static final int travel_header7=0x7f0d0065;
+    public static final int travel_header8=0x7f0d0066;
+    public static final int travel_text=0x7f0d0067;
+    public static final int walk_header1_1=0x7f0d0068;
+    public static final int walk_header1_2=0x7f0d0069;
+    public static final int walk_header2_1=0x7f0d006a;
+    public static final int walk_header2_2=0x7f0d006b;
+    public static final int walk_header2_3=0x7f0d006c;
+    public static final int walk_header2_4=0x7f0d006d;
+    public static final int walk_header2_5=0x7f0d006e;
+    public static final int walk_header2_6=0x7f0d006f;
+    public static final int walk_header2_7=0x7f0d0070;
+    public static final int walk_header2_8=0x7f0d0071;
+    public static final int walk_header2_9=0x7f0d0072;
+    public static final int walk_header3_1=0x7f0d0073;
+    public static final int walk_list1=0x7f0d0074;
+    public static final int walk_text1=0x7f0d0075;
+    public static final int walk_text2=0x7f0d0076;
+    public static final int walk_text3=0x7f0d0077;
+    public static final int walk_text4=0x7f0d0078;
+    public static final int walk_text5=0x7f0d0079;
+    public static final int walk_text6=0x7f0d007a;
+    public static final int walk_text7=0x7f0d007b;
+    public static final int walk_text8=0x7f0d007c;
+    public static final int walk_text9=0x7f0d007d;
+    public static final int walking1=0x7f0d007e;
   }
   public static final class style {
     public static final int AlertDialog_AppCompat=0x7f0e0000;
@@ -9442,7 +9459,7 @@ public final class R {
      * <tr><td>barrier</td><td>2</td><td></td></tr>
      * <tr><td>chains</td><td>4</td><td></td></tr>
      * <tr><td>dimensions</td><td>8</td><td></td></tr>
-     * <tr><td>direct</td><td>1</td><td>direct, barriers, chains</td></tr>
+     * <tr><td>direct</td><td>1</td><td></td></tr>
      * <tr><td>groups</td><td>20</td><td></td></tr>
      * <tr><td>none</td><td>0</td><td></td></tr>
      * <tr><td>standard</td><td>7</td><td></td></tr>

@@ -142,69 +142,57 @@
     -->
 
     <string name="cane_text1">
-        Canes and walkers help people with pain, weakness, and
-balance problems walk more safely and comfortably. They also
-may help some people avoid falls. There are many types of
-canes, walkers, crutches and other assistive devices available, so
-it’s very important to:
+        Canes and walkers help people with pain, weakness, and balance problems walk more safely and comfortably. They also
+        may help some people avoid falls. There are many types of canes, walkers, crutches and other assistive devices available, so it’s very important to:
     </string>
     <string name="cane_list1">
-            <li>work with a healthcare provider (physical therapist, doctor,
-nurse) to choose the correct type of walking aid for you</li> \n
-            <li>have the cane or walker sized so it fits you correctly</li> \n
-            <li>get help learning how to use it the right way</li>
-        </string>
+        <li>work with a healthcare provider (physical therapist, doctor, nurse) to choose the correct type of walking aid for you</li> \n
+        <li>have the cane or walker sized so it fits you correctly</li> \n
+        <li>get help learning how to use it the right way</li>
+    </string>
     <string name="cane_text2">In most cases, canes and walkers are reimbursable through Medicare and other insurers.</string>
 
     <string name="cane_header1_1">Which Should I Choose?</string>
-    <string name="cane_text3">If you feel you need a cane or walker, talk to your healthcare
-provider to make sure you get the device that is best for you. When deciding between a cane or
-walker, discuss the following points with your healthcare provider:</string>
-    <string name="cane_q1">What is the main
-    reason you need the
-    device?</string>
-    <string name="cane_q2">How much of your
-    weight does the
-    device need to
-    support?</string>
-    <string name="cane_q3">Most common
-    types</string>
-    <string name="cane_q4">Other things to
-think about</string>
+    <string name="cane_text3">
+        If you feel you need a cane or walker, talk to your healthcare provider to make sure you get the
+        device that is best for you. When deciding between a cane or walker, discuss the following points
+        with your healthcare provider:
+    </string>
+    <string name="cane_q1">What is the main reason you need the device?</string>
+    <string name="cane_q2">How much of your weight does the device need to support?</string>
+    <string name="cane_q3">Most common types</string>
+    <string name="cane_q4">Other things to think about</string>
     <string name="cane_c1"><li>Arthritis or pain, especially of the
         knees and hips, and on one side</li>\n <li>Mild balance problems</li>\n <li>Injuries to one foot or leg</li></string>
-    <string name="cane_c2">You can support up to <b>25%</b> of your
-weight with a cane.</string>
-    <string name="cane_c3"><li>Single point canes can help with
-        early balance problems</li>\n <li>Four point or “quad” canes add
-more stability and help even more
-        with balance</li>\n <li>Seat canes have small attached
-seats so you can take a rest while
-        using them</li></string>
-    <string name="cane_c4"><li>All canes must have a non-skid
-rubber tip</li>\n<li>Curved, rounded, or grip handles
-help with balance and to lower
-        stress on your hand</li>\n <li>Canes are not as stable as walkers</li></string>
+    <string name="cane_c2">You can support up to <b>25%</b> of your weight with a cane.</string>
+    <string name="cane_c3">
+        <li>Single point canes can help with early balance problems</li>\n
+        <li>Four point or “quad” canes add more stability and help even more with balance</li>\n
+        <li>Seat canes have small attached seats so you can take a rest while using them</li>
+    </string>
+    <string name="cane_c4">
+        <li>All canes must have a non-skid rubber tip</li>\n
+        <li>Curved, rounded, or grip handles help with balance and to lower stress on your hand</li>\n
+        <li>Canes are not as stable as walkers</li>
+    </string>
 
-    <string name="cane_w1"><li>Arthritis or pain, especially of the knees
-        and hips, on both sides</li>\n <li>Medium to bad balance and gait
-        problems</li>\n <li>General weakness or weakness of both
-legs</li></string>
-    <string name="cane_w2">You can support up to <b>50%</b> of your weight
-with some walkers.</string>
-    <string name="cane_w3"><li>Standard walkers need to be picked up
-        to move forward</li>\n <li>Front-wheeled walkers don’t need to be
-picked up, so they take less energy to
-        use</li>\n <li>Rolling 4-wheeled walkers give support
-and come with or without seats and
-brakes</li></string>
-    <string name="cane_w4"><li>Walkers should have rubber grips for
-        your hands so they don’t slip</li>\n <li>Front-wheeled walkers must have
-        non-skid tips on the back legs</li>\n <li>Walkers cannot be used on stairs</li></string>
+    <string name="cane_w1">
+        <li>Arthritis or pain, especially of the knees and hips, on both sides</li>\n
+        <li>Medium to bad balance and gait problems</li>\n
+        <li>General weakness or weakness of both legs</li>
+    </string>
+    <string name="cane_w2">You can support up to <b>50%</b> of your weight with some walkers.</string>
+    <string name="cane_w3">
+        <li>Standard walkers need to be picked up to move forward</li>\n
+        <li>Front-wheeled walkers don’t need to be picked up, so they take less energy to use</li>\n
+        <li>Rolling 4-wheeled walkers give support and come with or without seats and brakes</li>
+    </string>
+    <string name="cane_w4">
+        <li>Walkers should have rubber grips for your hands so they don’t slip</li>\n
+        <li>Front-wheeled walkers must have non-skid tips on the back legs</li>\n
+        <li>Walkers cannot be used on stairs</li>
+    </string>
 
-
-    Most common
-    types
 
     <string name="cane_header1_2">How to Get a Proper Fit for Your Cane or Walker</string>
     <string name="cane_textList1">The correct length of a cane or walker is measured from the wrist to the floor.</string>
@@ -214,63 +202,109 @@ brakes</li></string>
         <li>Let your arm hang loosely at your side.</li>\n
         <li>Ask someone else to measure the distance from your wrist to the floor.</li>
     </string>
-    <string name="cane_textList4"><li>This measurement should be about equal to the distance from the point where
-    your leg bone fits into the hip socket to the floor.</li></string>
-    <string name="cane_textList5"><li>Have your cane or walker adjusted so that the tops of it is that same distance from
-    the floor.</li></string>
-    <string name="cane_textList6"><li>Aluminum canes and most walkers are adjusted by pushing in buttons on each
-    side and sliding the tubing to the new length until the buttons lock in place.
-    </li>\n <li>Wood canes can be cut to size.</li></string>
-    <string name="cane_textList7"><li>Put your hand on the cane or walker handle. If the length is correct, you will notice
-    a 20-degree to 30-degree bend in the elbow. (If your upper arm is at 12 o’clock, your
-    hand points to 5 o’clock.)</li></string>
-    <string name="cane_textList8">If your cane or walker does not feel right, ask your physician or physical
-therapist to check the fit.</string>
-
+    <string name="cane_textList4">
+        <li>This measurement should be about equal to the distance from the point where your leg bone fits into the hip socket to the floor.</li>
+    </string>
+    <string name="cane_textList5">
+        <li>Have your cane or walker adjusted so that the tops of it is that same distance from the floor.</li>
+    </string>
+    <string name="cane_textList6">
+        <li>Aluminum canes and most walkers are adjusted by pushing in buttons on each side and sliding the tubing to the new length until the buttons lock in place. </li>\n
+        <li>Wood canes can be cut to size.</li>
+    </string>
+    <string name="cane_textList7">
+        <li>Put your hand on the cane or walker handle. If the length is correct, you will notice a 20-degree to 30-degree bend in the elbow.
+            (If your upper arm is at 12 o’clock, your hand points to 5 o’clock.)</li>
+    </string>
+    <string name="cane_textList8">If your cane or walker does not feel right, ask your physician or physical therapist to check the fit.</string>
 
     <string name="cane_header1_3">5 Steps to Safely Using Your Cane</string>
-<string name="cane_textNum_1">Use the cane on the opposite side
-of your injury, pain, or weakness
-(unless your healthcare provider
-tells you not to).</string>
-    <string name="cane_textNum_2">Put all of your weight on your bad
-leg.</string>
-    <string name="cane_textNum_3">Move the cane and your bad leg a
-comfortable distance forward.</string>
-    <string name="cane_textNum_4">With your weight supported on
-both your cane and your bad leg,
-step through with your bad leg.</string>
-    <string name="cane_textNum_5">Place your cane firmly on the
-ground before you take a step.
-Do not place your cane too far
-ahead of you, or it could slip
-from under you.</string>
+    <string name="cane_textNum_1">Use the cane on the opposite side of your injury, pain, or weakness (unless your healthcare provider tells you not to).</string>
+    <string name="cane_textNum_2">Put all of your weight on your bad leg.</string>
+    <string name="cane_textNum_3">Move the cane and your bad leg a comfortable distance forward.</string>
+    <string name="cane_textNum_4">With your weight supported on both your cane and your bad leg, step through with your bad leg.</string>
+    <string name="cane_textNum_5">Place your cane firmly on the ground before you take a step. Do not place your cane too far ahead of you, or it could slip from under you.</string>
 
     <string name="cane_header1_4">5 Steps to Safely Using Your Walker</string>
-<string name="cane_textNum_6">Stand with your toes halfway between
-the front and back tips or wheels.
-Roll or lift your walker a step’s length
-ahead of you
-</string>
-    <string name="cane_textNum_7">Place the walker firmly on the ground.
-Do not place your walker too far
-ahead of you, or it could slip from
-under you.</string>
-    <string name="cane_textNum_8">Lean slightly forward, and hold the
-arms of the walker for support.
-</string>
+    <string name="cane_textNum_6">Stand with your toes halfway between the front and back tips or wheels. Roll or lift your walker a step’s length ahead of you </string>
+    <string name="cane_textNum_7">Place the walker firmly on the ground. Do not place your walker too far ahead of you, or it could slip from under you.</string>
+    <string name="cane_textNum_8">Lean slightly forward, and hold the arms of the walker for support.</string>
     <string name="cane_textNum_9">Take a step.</string>
-    <string name="cane_textNum_10">Repeat the cycle: Place your walker
-firmly on the ground (or roll it ahead
-of you), then take a step.</string>
+    <string name="cane_textNum_10">Repeat the cycle: Place your walker firmly on the ground (or roll it ahead of you), then take a step.</string>
 
-    <string name="cane_header2_1">Get Non-Skid Rubber Tips
-for Your Cane or Walker</string>
-    <string name="cane_text">Non-skid rubber tips help keep you from
-slipping. Check tips often and change them if
-they look worn. These tips are available through
-your local pharmacy or medical supply store.</string>
+    <string name="cane_header2_1">Get Non-Skid Rubber Tips for Your Cane or Walker</string>
+    <string name="cane_text">Non-skid rubber tips help keep you from slipping. Check tips often and change them if they look worn. These tips are available through your local pharmacy or medical supply store.</string>
     <string name="cane_header2_2"><i>Tennis balls cut and placed on the rubber tips can be helpful for ease of movement on carpeted surfaces.</i></string>
 
+
+
+    <!--
+        Travel Tips Activity
+    -->
+
+    <string name="travel_text">
+        Before you board a plane, train, cruise, or get in your car for a vacation, be sure to check
+        out these expert tips and recommendations from the American Geriatrics Society’s Health
+        in Aging Foundation. Whether you are traveling overseas or just a short distance from
+        home, it is important to plan ahead for your healthcare needs.
+    </string>
+
+    <string name="travel_header1">Find out if you need to update your vaccinations</string>
+    <string name="travel_header2">Talk to your healthcare provider</string>
+    <string name="travel_header3">Ask when you should take your medications</string>
+    <string name="travel_header4">Guard against deep-vein thrombosis (DVT)</string>
+    <string name="travel_header5">Get it in writing</string>
+    <string name="travel_header6">Keep your medications in their original containers with labels</string>
+    <string name="travel_header7">Carry your medications on the plane</string>
+    <string name="travel_header8">Protect yourself from infection and dehydration</string>
+
+    <string name="travel_h1text">
+        <b>If you are traveling overseas, you may need certain vaccinations before departing—in some cases, up to 6 weeks before you leave.</b>
+        Visit the Centers for Disease Control and Prevention’s (CDC) Travelers’ Health website <b>https://wwwnc.cdc.gov/travel/page/travel-vaccines</b>
+        to learn what measures you and your fellow travelers may be required to follow when traveling abroad.
+    </string>
+    
+    <string name="travel_h2text">
+        <b>Explain your travel plans to your healthcare provider</b>, and discuss any travel precautions you should take. Your provider may ask you to come
+        in for a checkup or to get any necessary shots.
+    </string>
+    
+    <string name="travel_h3text">
+        <b>If you take medications, and will be crossing time zones</b>, ask your healthcare provider whether you should take your medicines at your usual 
+        time in your home time zone, or if you should switch to the local time zone. Also ask if any new foods you might eat while traveling could interact 
+        with your medications or health conditions.
+    </string>
+    
+    <string name="travel_h4text">
+        <b>Older adults run a higher-than-average risk of DVT</b>, which happens when blood clots form in your veins and block blood flow, usually in your legs. 
+        Sitting still for a long time on an airplane, train, or car can contribute to DVT. But some research shows that wearing “compression stockings” can help 
+        prevent this dangerous condition. Also, taking frequent breaks to walk or exercise your legs during a long ride can help protect you from developing DVT. 
+        Check with your healthcare provider.
+    </string>
+    
+    <string name="travel_h5text">
+        <li><b>Make a list of all prescriptions, including over-the-counter medications and supplements you take</b>, including the dose, what time you take the
+            medications, and what they are for. Ask your pharmacist or healthcare provider to help you create this list and ask them to review it for accuracy.
+            The list should include both generic and brand drug names and the amount of each medication you need to take with you on your trip.</li>\n
+        <li><b>Ask your healthcare provider for a list of current medical conditions</b> you have and how they’re being treated.</li>\n
+        <li><b>Have your healthcare providers’ contact information</b> in writing as well as for emergency purposes.</li>\n\n
+        Having all of this on paper will make it easier for you to get through customs, and easier to get replacement medications if you lose any while traveling.
+        Make a copy of these lists. Carry one with you, and keep the other in your suitcase.
+    </string>
+
+    <string name="travel_h6text">
+        <b>Do this with prescription and over-the-counter medicines, and supplements.</b> This will also make your trip through customs easier.
+    </string>
+
+    <string name="travel_h7text"><b>Pack your medications in your carry-on bag</b> to avoid loss or damage.</string>
+
+    <string name="travel_h8text">
+        <li><b>Wash your hands or use an alcohol-based hand sanitizer</b>, especially after spending time on a crowded plane, train, or bus, and before eating.</li>\n
+        <li><b>Use common sense when choosing what to eat and drink.</b> Avoid brushing your teeth with water that isn’t safe to drink. The CDC travel site
+            <b>http://wwwnc.cdc.gov/travel/</b> includes country-by-country information on illnesses you can get from food and water and how to avoid them.</li>\n
+        <li><b>Drink plenty of water when traveling, especially when going by plane.</b> The air inside planes is dry, so bring a large bottle of water with you
+            and drink reguarly even if you do not feel thirsty. Or ask for water every time the flight attendant offers a drink instead of soda or coffee, which can
+            dry you out even more.</li>
+    </string>
 
 </resources>

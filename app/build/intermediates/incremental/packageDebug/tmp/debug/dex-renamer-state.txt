@@ -1,4 +1,4 @@
-#Fri Mar 13 07:43:42 PDT 2020
+#Sat Mar 21 13:48:29 PDT 2020
 base.0=C\:\\Users\\sheck\\Downloads\\MaterialMe\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
 path.0=classes.dex
 renamed.0=classes.dex
