@@ -421,4 +421,95 @@
     </string>
 
 
+    <!--
+            Caregiver Tips Activity
+    -->
+    
+    <string name="care_text1">
+        <b>As many as 43.5 million Americans care for older parents, grandparents, spouses, and other older adults.</b> Some older adults need only a little assistance,
+        such as help with shoveling snow or rides to and from the grocery store. Others need a lot of help with daily activities like eating, bathing, dressing, taking
+        medications, and managing money. Over time, some older adults with increasing medical problems often need significant help from caregivers in performing
+        activities of basic living.
+    </string>
+    <string name="care_text2">
+        While caring for an older family member can be one of the most rewarding experiences of a lifetime, it can also become stressful at times. 
+        This is especially true if the older adult has dementia or needs around-the-clock care. Most caregivers are spouses/partners or adult children. 
+        They may have health problems of their own, have children to care for, work outside the home, or all of these. The additional duties of providing 
+        care for an older person can lead to excessive physical or emotional fatigue, called “caregiver burnout.”
+    </string>
+    <string name="care_header3">
+        It is important to get help before caregiving becomes overwhelming. If you’re caring for an older adult, the American Geriatrics Society’s Health in 
+        Aging Foundation suggests the following:
+    </string>
+
+    <string name="care_header2_1">Get information</string>
+    <string name="care_header2_2">Help the older adult help themselves</string>
+    <string name="care_header2_3">Ask trustworthy family, friends and neighbors for assistance</string>
+    <string name="care_header2_4">Take care of yourself, too</string>
+    <string name="care_header2_5">Don’t take it personally</string>
+    <string name="care_header2_6">Talk about it</string>
+    <string name="care_header2_7">Contact professionals and organizations that assist caregivers</string>
+
+    <string name="care_h2_1">
+        <b>It’s likely that an older person you care for has multiple health problems.</b> They may take quite a few medications and see several different
+        healthcare providers to manage these conditions. This can make managing their care more complicated for you as a caregiver. \n
+        It’s helpful to accompany the older adult to their medical appointments to learn about their health problems and how these are likely to change over time.
+        As a first step in learning more, HealthinAging.org has a wealth of information on health conditions and needs unique to older adults that can help you be a
+        better informed and prepared caregiver.
+    </string>
+    <string name="care_h2_2">
+        <b>You can make it possible for an older person to keep doing certain things</b> independently by doing things as simple as putting a no-slip seat in the shower or
+        bathtub; installing “grab bars” in the bathroom and near the bed; moving frequently used items to lower shelves; or getting easy-grip can openers and other utensils.
+    </string>
+    <string name="care_h2_3">
+        <b>Ask family and friends for help, and accept help if it is offered.</b> Explain what needs to be done, but try not to criticize if others don’t care for the
+        older person in exactly the same way you would. The important thing is that their needs are getting met.
+    </string>
+    <string name="care_h2_4">
+        <b>Take time to eat well, exercise, and relax and enjoy yourself</b> - these are key to avoiding burnout. Look into “respite” programs to allow yourself a short break.
+        Also know the warning signs of depression and get help if needed. (See https://www.healthinaging.org/a-z-topic/depression for more information.)
+    </string>
+    <string name="care_h2_5">
+        <b>If an older person has dementia or other mental or emotional problems</b>, they may get angry or say hurtful things. Remind yourself that this is because of the disease.
+        Try not to take it to heart.
+    </string>
+    <string name="care_h2_6"><b>Talking about your experiences and feelings</b> can make caregiving less stressful. Consider joining a caregiver support group in your area.</string>
+    <string name="care_h2_7">
+        <b>A wide range of programs, agencies, organizations, and individuals</b> in your community can help you manage the challenges of caring for an older person.
+        This assistance may be free, or available at low cost.
+    </string>
+
+    <string name="care_header1_1">The following agencies and people can help you find the help you need:</string>
+    <string name="care_header3_1">Eldercare Locator</string>
+    <string name="care_h3_1">
+        Visit www.eldercare.gov to search for community services by zip code, city, or topic. Or call 800-677-1116 to speak with an Information Specialist. \n
+        You can find your local Area Agency on Aging through the Eldercare Locator. Among other things, an Area Agency on Aging caseworker can visit you and the older
+        person and give you information about different sources for the help you need, how much this help might cost, and how you can get financial help.
+    </string>
+    <string name="care_header3_2">Social workers</string>
+    <string name="care_h3_2">
+        Social workers at hospitals, clinics, and home health agencies, as well as specially trained geriatric care managers, can help, too.
+        The Aging Life Care Association (www.aginglifecare.org) can provide more information on geriatric care managers.
+        (Note: Insurance usually does not cover the cost of geriatric care manager assistance.)
+    </string>
+    <string name="care_header3_3">Other Community Resources</string>
+    <string name="care_h3_3">
+        Your local United Way and faith-based organizations can also help you find assistance. \n
+        Look into a Program of All Inclusive Care for the Elderly (PACE) program in your area, which can provide adult day care and medical care all under one roof.
+    </string>
+    
+    <string name="care_header1_2">Among other things, these groups and individuals can help you find the following kinds of help:</string>
+    <string name="care_list">
+        <li>Financial assistance and advice on paying for the services the older adult needs, including assistance completing paper work.</li> \n\n
+        <li>Transportation to take the older adult shopping or to and from medical appointments.</li> \n\n
+        <li>Meals including help preparing meals or having meals delivered.</li> \n\n
+        <li>Home medical services including visits from house call physicians, registered nurses, private duty nurses, nurses aides, and/or a hospice team,
+            to manage medical problems in the comfort of home.</li> \n\n
+        <li>Respite care services which send trained helpers to the older adult’s home so you can take a break.</li> \n\n
+        <li>Reliable “home helpers” who can visit the older person for an hour or two at a time to help with bathing, light housekeeping, cooking, and errands.</li> \n\n
+        <li>Adult day care centers where older adults can go for several hours during the day for care supervised by healthcare staff. This care usually includes
+            social programs, recreation, and meals. Special adult day care programs are available for people with dementia, depression, and social problems.</li>
+    </string>
+
+
 </resources>

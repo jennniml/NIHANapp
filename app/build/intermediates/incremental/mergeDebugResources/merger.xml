@@ -2137,14 +2137,57 @@
         out these expert tips and recommendations from the American Geriatrics Society’s Health
         in Aging Foundation. Whether you are traveling overseas or just a short distance from
         home, it is important to plan ahead for your healthcare needs.
-    </string><string name="travel_text7"><b>Pack your medications in your carry-on bag</b> to avoid loss or damage.</string><string name="safesex_header3">Here are 4 tips on having and enjoying safe sex, no matter what your age.</string><string name="safesex_text3">
+    </string><string name="travel_header2_1">Find out if you need to update your vaccinations</string><string name="travel_header2_2">Talk to your healthcare provider</string><string name="travel_header2_3">Ask when you should take your medications</string><string name="travel_header2_4">Guard against deep-vein thrombosis (DVT)</string><string name="travel_header2_5">Get it in writing</string><string name="travel_header2_6">Keep your medications in their original containers with labels</string><string name="travel_header2_7">Carry your medications on the plane</string><string name="travel_header2_8">Protect yourself from infection and dehydration</string><string name="travel_text1">
+        <b>If you are traveling overseas, you may need certain vaccinations before departing—in some cases, up to 6 weeks before you leave.</b>
+        Visit the Centers for Disease Control and Prevention’s (CDC) Travelers’ Health website <b>https://wwwnc.cdc.gov/travel/page/travel-vaccines</b>
+        to learn what measures you and your fellow travelers may be required to follow when traveling abroad.
+    </string><string name="travel_text2">
+        <b>Explain your travel plans to your healthcare provider</b>, and discuss any travel precautions you should take. Your provider may ask you to come
+        in for a checkup or to get any necessary shots.
+    </string><string name="travel_text3">
+        <b>If you take medications, and will be crossing time zones</b>, ask your healthcare provider whether you should take your medicines at your usual 
+        time in your home time zone, or if you should switch to the local time zone. Also ask if any new foods you might eat while traveling could interact 
+        with your medications or health conditions.
+    </string><string name="travel_text4">
+        <b>Older adults run a higher-than-average risk of DVT</b>, which happens when blood clots form in your veins and block blood flow, usually in your legs. 
+        Sitting still for a long time on an airplane, train, or car can contribute to DVT. But some research shows that wearing “compression stockings” can help 
+        prevent this dangerous condition. Also, taking frequent breaks to walk or exercise your legs during a long ride can help protect you from developing DVT. 
+        Check with your healthcare provider.
+    </string><string name="travel_text5">
+        <li><b>Make a list of all prescriptions, including over-the-counter medications and supplements you take</b>, including the dose, what time you take the
+            medications, and what they are for. Ask your pharmacist or healthcare provider to help you create this list and ask them to review it for accuracy.
+            The list should include both generic and brand drug names and the amount of each medication you need to take with you on your trip.</li>\n
+        <li><b>Ask your healthcare provider for a list of current medical conditions</b> you have and how they’re being treated.</li>\n
+        <li><b>Have your healthcare providers’ contact information</b> in writing as well as for emergency purposes.</li>\n\n
+        Having all of this on paper will make it easier for you to get through customs, and easier to get replacement medications if you lose any while traveling.
+        Make a copy of these lists. Carry one with you, and keep the other in your suitcase.
+    </string><string name="travel_text6">
+        <b>Do this with prescription and over-the-counter medicines, and supplements.</b> This will also make your trip through customs easier.
+    </string><string name="travel_text7"><b>Pack your medications in your carry-on bag</b> to avoid loss or damage.</string><string name="travel_text8">
+        <li><b>Wash your hands or use an alcohol-based hand sanitizer</b>, especially after spending time on a crowded plane, train, or bus, and before eating.</li>\n
+        <li><b>Use common sense when choosing what to eat and drink.</b> Avoid brushing your teeth with water that isn’t safe to drink. The CDC travel site
+            <b>http://wwwnc.cdc.gov/travel/</b> includes country-by-country information on illnesses you can get from food and water and how to avoid them.</li>\n
+        <li><b>Drink plenty of water when traveling, especially when going by plane.</b> The air inside planes is dry, so bring a large bottle of water with you
+            and drink reguarly even if you do not feel thirsty. Or ask for water every time the flight attendant offers a drink instead of soda or coffee, which can
+            dry you out even more.</li>
+    </string><string name="safesex_text">
+        Many older adults are remaining or becoming sexually active. This is because of better health among older adults, longer lifespans, more open attitudes 
+        toward sexuality, internet dating, and the availability of medications like Viagra and estrogen products. Sex can still be satisfying but will be different 
+        from younger years, and might need to be adapted for current age, disability, illness, or surgery-induced body changes. Older adults are more vulnerable to 
+        sexually transmitted infections (STIs) than younger adults. Everyone should use safe sex practices.
+    </string><string name="safesex_header3">Here are 4 tips on having and enjoying safe sex, no matter what your age.</string><string name="safesex_header2_1">Do a background and body check</string><string name="safesex_header2_2">Consider getting tested first</string><string name="safesex_header2_3">Use a condom and lubricant</string><string name="safesex_header2_4">Talk to your healthcare provider</string><string name="safesex_text1">
+        Know your partner’s sexual background before having oral, vaginal, or anal sex. All types of sex can spread STIs. Talk about your sexual histories, any past STIs,
+        results of STI testing, and whether either of you has ever injected illegal drugs. (Besides sex, HIV/AIDS can also be acquired by sharing syringe needles.)
+        Before having sex, check your partner’s penis or vaginal area for sores, abnormal discharges, or odors.
+    </string><string name="safesex_text2">
+        The best way to protect yourself and your partner is for the two of you to get tested for HIV and other STIs before you start having sex. A person can have an
+        STI and not know it because the symptoms are not obvious. And some symptoms of STIs or HIV, such as tiredness, can be mistaken for age-related health problems.
+    </string><string name="safesex_text3">
         Use one condom and lubricant every time you have vaginal, oral, or anal sex, including during foreplay, until you know your partner’s sexual history,
         STI status, and are in a sexually exclusive relationship. Using water-based lubricants such as K-Y Jelly and Astroglide is important because they can
         lower the chances of getting a sore or tiny cut on the penis or inside the vagina. These sores and cuts can increase the risk of getting STIs. Do not
         use Vaseline or mineral oil with condoms because it destroys the condom lining. Put the condom on after the penis is erect, leaving a 1/2 inch space
         at the tip. Hold the condom at the base (open end) as you remove it. Do not use the same condom twice. Do not use expired condoms.
-    </string><string name="travel_text6">
-        <b>Do this with prescription and over-the-counter medicines, and supplements.</b> This will also make your trip through customs easier.
     </string><string name="safesex_text4">
         Your healthcare provider can offer additional advice about protecting yourself from STIs and when sex is safe with certain medical conditions such as after
         a heart attack. Your provider can also recommend treatments for common sexual problems such as vaginal dryness and erectile dysfunction (difficulty getting
@@ -2156,83 +2199,95 @@
         alcohol use. \n\n
         Because ED may be the first sign of an underlying medical condition, talk to your healthcare provider if you experience this problem. Medications exist to help
         resolve ED problems. Before using ED medications and over the counter and herbal sex aids, make sure to discuss them with your provider or pharmacist.
-    </string><string name="travel_text5">
-        <li><b>Make a list of all prescriptions, including over-the-counter medications and supplements you take</b>, including the dose, what time you take the
-            medications, and what they are for. Ask your pharmacist or healthcare provider to help you create this list and ask them to review it for accuracy.
-            The list should include both generic and brand drug names and the amount of each medication you need to take with you on your trip.</li>\n
-        <li><b>Ask your healthcare provider for a list of current medical conditions</b> you have and how they’re being treated.</li>\n
-        <li><b>Have your healthcare providers’ contact information</b> in writing as well as for emergency purposes.</li>\n\n
-        Having all of this on paper will make it easier for you to get through customs, and easier to get replacement medications if you lose any while traveling.
-        Make a copy of these lists. Carry one with you, and keep the other in your suitcase.
-    </string><string name="safesex_text1">
-        Know your partner’s sexual background before having oral, vaginal, or anal sex. All types of sex can spread STIs. Talk about your sexual histories, any past STIs,
-        results of STI testing, and whether either of you has ever injected illegal drugs. (Besides sex, HIV/AIDS can also be acquired by sharing syringe needles.)
-        Before having sex, check your partner’s penis or vaginal area for sores, abnormal discharges, or odors.
-    </string><string name="travel_text4">
-        <b>Older adults run a higher-than-average risk of DVT</b>, which happens when blood clots form in your veins and block blood flow, usually in your legs. 
-        Sitting still for a long time on an airplane, train, or car can contribute to DVT. But some research shows that wearing “compression stockings” can help 
-        prevent this dangerous condition. Also, taking frequent breaks to walk or exercise your legs during a long ride can help protect you from developing DVT. 
-        Check with your healthcare provider.
-    </string><string name="safesex_text2">
-        The best way to protect yourself and your partner is for the two of you to get tested for HIV and other STIs before you start having sex. A person can have an
-        STI and not know it because the symptoms are not obvious. And some symptoms of STIs or HIV, such as tiredness, can be mistaken for age-related health problems.
-    </string><string name="travel_text8">
-        <li><b>Wash your hands or use an alcohol-based hand sanitizer</b>, especially after spending time on a crowded plane, train, or bus, and before eating.</li>\n
-        <li><b>Use common sense when choosing what to eat and drink.</b> Avoid brushing your teeth with water that isn’t safe to drink. The CDC travel site
-            <b>http://wwwnc.cdc.gov/travel/</b> includes country-by-country information on illnesses you can get from food and water and how to avoid them.</li>\n
-        <li><b>Drink plenty of water when traveling, especially when going by plane.</b> The air inside planes is dry, so bring a large bottle of water with you
-            and drink reguarly even if you do not feel thirsty. Or ask for water every time the flight attendant offers a drink instead of soda or coffee, which can
-            dry you out even more.</li>
-    </string><string name="travel_header2_7">Carry your medications on the plane</string><string name="travel_header2_8">Protect yourself from infection and dehydration</string><string name="travel_header2_5">Get it in writing</string><string name="travel_header2_6">Keep your medications in their original containers with labels</string><string name="travel_header2_3">Ask when you should take your medications</string><string name="travel_header2_4">Guard against deep-vein thrombosis (DVT)</string><string name="travel_header2_1">Find out if you need to update your vaccinations</string><string name="travel_header2_2">Talk to your healthcare provider</string><string name="safesex_text">
-        Many older adults are remaining or becoming sexually active. This is because of better health among older adults, longer lifespans, more open attitudes 
-        toward sexuality, internet dating, and the availability of medications like Viagra and estrogen products. Sex can still be satisfying but will be different 
-        from younger years, and might need to be adapted for current age, disability, illness, or surgery-induced body changes. Older adults are more vulnerable to 
-        sexually transmitted infections (STIs) than younger adults. Everyone should use safe sex practices.
-    </string><string name="safesex_header2_4">Talk to your healthcare provider</string><string name="safesex_header2_2">Consider getting tested first</string><string name="safesex_header2_3">Use a condom and lubricant</string><string name="travel_text3">
-        <b>If you take medications, and will be crossing time zones</b>, ask your healthcare provider whether you should take your medicines at your usual 
-        time in your home time zone, or if you should switch to the local time zone. Also ask if any new foods you might eat while traveling could interact 
-        with your medications or health conditions.
-    </string><string name="travel_text2">
-        <b>Explain your travel plans to your healthcare provider</b>, and discuss any travel precautions you should take. Your provider may ask you to come
-        in for a checkup or to get any necessary shots.
-    </string><string name="safesex_header2_1">Do a background and body check</string><string name="travel_text1">
-        <b>If you are traveling overseas, you may need certain vaccinations before departing—in some cases, up to 6 weeks before you leave.</b>
-        Visit the Centers for Disease Control and Prevention’s (CDC) Travelers’ Health website <b>https://wwwnc.cdc.gov/travel/page/travel-vaccines</b>
-        to learn what measures you and your fellow travelers may be required to follow when traveling abroad.
-    </string><string name="diabetes_header2_5">Eat a wide variety of low- calorie produce</string><string name="diabetes_h2text_3"><b>Eating more small meals</b> over the course of the day can help keep your blood sugar levels steadier than eating three large meals.</string><string name="diabetes_header2_4">Choose whole grain breads, cereals, and pasta</string><string name="diabetes_h2text_2">
+    </string><string name="diabetes_header3">Diabetes is a common health problem among older people. More than 40 percent of Americans with diabetes are 65 or older.</string><string name="diabetes_text1">When your body digests food it converts much of it into glucose—a kind of sugar that your cells use for energy.
+        Your body also produces a hormone called insulin. Insulin helps you get the right amount of glucose in your bloodstream, which carries it to your cells. 
+        When something goes wrong with these processes, the result is diabetes.</string><string name="diabetes_text2">
+        <b>What is diabetes?</b> Diabetes develops when the amount of sugar in your blood becomes too high, either because your body doesn’t make enough insulin
+        (type 1 diabetes), because your body doesn’t respond to insulin (type 2 diabetes), or both. The extra sugar in your blood can damage parts of your body,
+        such as your eyes or kidneys. People with type 1 usually develop diabetes in childhood or as teenagers. Older people are particularly likely to develop
+        type 2 diabetes because your body’s ability to manage sugar declines with age. Being overweight can also cause diabetes.</string><string name="diabetes_text3">
+        <b>Diabetes can’t be cured but it can be managed.</b> If you have diabetes, you should work closely with your healthcare providers to keep your blood pressure,
+        cholesterol, and sugar levels under control.
+    </string><string name="diabetes_text4">Here’s some expert advice, from the Health in Aging Foundation, for older adults with diabetes and their caregivers.</string><string name="diabetes_header2_1">Make a plan</string><string name="diabetes_header2_2">Make the most of free Medicare services</string><string name="diabetes_header2_3">Eat smaller portions</string><string name="diabetes_header2_4">Choose whole grain breads, cereals, and pasta</string><string name="diabetes_header2_5">Eat a wide variety of low- calorie produce</string><string name="diabetes_header2_6">Avoid sugary drinks and foods</string><string name="diabetes_header2_7">Get moving</string><string name="diabetes_header2_8">Slim down</string><string name="diabetes_h2text_1">
+        <b>Work with your healthcare providers to develop a diabetes treatment plan.</b> For many patients, the diabetes educator is an important member of your
+        team who can teach you about the best way to eat and stay active. Medicare will cover a visit to a diabetes educator if you and your healthcare provider
+        think that you need this. Your treatment plan should meet your needs <i>and your wishes</i>.
+    </string><string name="diabetes_h2text_2">
         <b>If you need more help learning how to keep your diabetes under control</b>, Medicare will cover a visit with a diabetes educator once a year.
         Ask your healthcare provider to give you a referral.
-    </string><string name="diabetes_header2_7">Get moving</string><string name="diabetes_h2text_5">
-        Choose bright or deep-colored fruits and vegetables such as spinach, green or red lettuce, tomatoes, carrots, broccoli, squash, or sweet potatoes. \n
-        These foods are better choices than white potatoes or iceberg lettuce.
-    </string><string name="diabetes_header2_6">Avoid sugary drinks and foods</string><string name="diabetes_h2text_4">
+    </string><string name="diabetes_h2text_3"><b>Eating more small meals</b> over the course of the day can help keep your blood sugar levels steadier than eating three large meals.</string><string name="diabetes_h2text_4">
         <b>Whole grains have more fiber, and take longer to digest</b> than white flour and other refined starches. Whole grains, such as whole wheat flour, brown rice,
         oats and barley, can help keep your blood sugar levels steadier.
-    </string><string name="diabetes_header2_1">Make a plan</string><string name="diabetes_h2text_7">
-        <b>Even small increases in physical activity can help</b> you control your blood sugar and blood pressure levels, and can help preserve your ability to
-        live independently. \n
-        Talk to your healthcare provider about how to get started if you haven’t been exercising for a while. If your healthcare provider says it is safe,
-        start with at least 20 minutes of exercise at least three times a week. If you exercise more often, you’ll see even greater benefits.
+    </string><string name="diabetes_h2text_5">
+        Choose bright or deep-colored fruits and vegetables such as spinach, green or red lettuce, tomatoes, carrots, broccoli, squash, or sweet potatoes. \n
+        These foods are better choices than white potatoes or iceberg lettuce.
     </string><string name="diabetes_h2text_6">
         <b>Drink water or unsweetened tea instead of soft drinks</b> or other beverages high in natural or added sugar. \n
         Enjoy fresh fruits for dessert. \n
         Avoid processed and prepared foods. These often contain corn syrup, and are high in fat and salt.
-    </string><string name="diabetes_text2">
-        <b>What is diabetes?</b> Diabetes develops when the amount of sugar in your blood becomes too high, either because your body doesn’t make enough insulin
-        (type 1 diabetes), because your body doesn’t respond to insulin (type 2 diabetes), or both. The extra sugar in your blood can damage parts of your body,
-        such as your eyes or kidneys. People with type 1 usually develop diabetes in childhood or as teenagers. Older people are particularly likely to develop
-        type 2 diabetes because your body’s ability to manage sugar declines with age. Being overweight can also cause diabetes.</string><string name="diabetes_header2_3">Eat smaller portions</string><string name="diabetes_text1">When your body digests food it converts much of it into glucose—a kind of sugar that your cells use for energy.
-        Your body also produces a hormone called insulin. Insulin helps you get the right amount of glucose in your bloodstream, which carries it to your cells. 
-        When something goes wrong with these processes, the result is diabetes.</string><string name="diabetes_header2_2">Make the most of free Medicare services</string><string name="diabetes_h2text_8">
+    </string><string name="diabetes_h2text_7">
+        <b>Even small increases in physical activity can help</b> you control your blood sugar and blood pressure levels, and can help preserve your ability to
+        live independently. \n
+        Talk to your healthcare provider about how to get started if you haven’t been exercising for a while. If your healthcare provider says it is safe,
+        start with at least 20 minutes of exercise at least three times a week. If you exercise more often, you’ll see even greater benefits.
+    </string><string name="diabetes_h2text_8">
         <b>If you are overweight, losing even 5 to 10 pounds</b> can help make your diabetes easier to treat. You can do this by both eating well and exercising regularly.
-    </string><string name="diabetes_text4">Here’s some expert advice, from the Health in Aging Foundation, for older adults with diabetes and their caregivers.</string><string name="diabetes_text3">
-        <b>Diabetes can’t be cured but it can be managed.</b> If you have diabetes, you should work closely with your healthcare providers to keep your blood pressure,
-        cholesterol, and sugar levels under control.
-    </string><string name="diabetes_h2text_1">
-        <b>Work with your healthcare providers to develop a diabetes treatment plan.</b> For many patients, the diabetes educator is an important member of your
-        team who can teach you about the best way to eat and stay active. Medicare will cover a visit to a diabetes educator if you and your healthcare provider
-        think that you need this. Your treatment plan should meet your needs <i>and your wishes</i>.
-    </string><string name="diabetes_header3">Diabetes is a common health problem among older people. More than 40 percent of Americans with diabetes are 65 or older.</string><string name="diabetes_header2_8">Slim down</string></file><file path="C:\Users\sheck\Downloads\MaterialMe\app\src\main\res\values\styles.xml" qualifiers=""><style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+    </string><string name="care_text1">
+        <b>As many as 43.5 million Americans care for older parents, grandparents, spouses, and other older adults.</b> Some older adults need only a little assistance,
+        such as help with shoveling snow or rides to and from the grocery store. Others need a lot of help with daily activities like eating, bathing, dressing, taking
+        medications, and managing money. Over time, some older adults with increasing medical problems often need significant help from caregivers in performing
+        activities of basic living.
+    </string><string name="care_text2">
+        While caring for an older family member can be one of the most rewarding experiences of a lifetime, it can also become stressful at times. 
+        This is especially true if the older adult has dementia or needs around-the-clock care. Most caregivers are spouses/partners or adult children. 
+        They may have health problems of their own, have children to care for, work outside the home, or all of these. The additional duties of providing 
+        care for an older person can lead to excessive physical or emotional fatigue, called “caregiver burnout.”
+    </string><string name="care_header3">
+        It is important to get help before caregiving becomes overwhelming. If you’re caring for an older adult, the American Geriatrics Society’s Health in 
+        Aging Foundation suggests the following:
+    </string><string name="care_header2_1">Get information</string><string name="care_header2_2">Help the older adult help themselves</string><string name="care_header2_3">Ask trustworthy family, friends and neighbors for assistance</string><string name="care_header2_4">Take care of yourself, too</string><string name="care_header2_5">Don’t take it personally</string><string name="care_header2_6">Talk about it</string><string name="care_header2_7">Contact professionals and organizations that assist caregivers</string><string name="care_h2_1">
+        <b>It’s likely that an older person you care for has multiple health problems.</b> They may take quite a few medications and see several different
+        healthcare providers to manage these conditions. This can make managing their care more complicated for you as a caregiver. \n
+        It’s helpful to accompany the older adult to their medical appointments to learn about their health problems and how these are likely to change over time.
+        As a first step in learning more, HealthinAging.org has a wealth of information on health conditions and needs unique to older adults that can help you be a
+        better informed and prepared caregiver.
+    </string><string name="care_h2_2">
+        <b>You can make it possible for an older person to keep doing certain things</b> independently by doing things as simple as putting a no-slip seat in the shower or
+        bathtub; installing “grab bars” in the bathroom and near the bed; moving frequently used items to lower shelves; or getting easy-grip can openers and other utensils.
+    </string><string name="care_h2_3">
+        <b>Ask family and friends for help, and accept help if it is offered.</b> Explain what needs to be done, but try not to criticize if others don’t care for the
+        older person in exactly the same way you would. The important thing is that their needs are getting met.
+    </string><string name="care_h2_4">
+        <b>Take time to eat well, exercise, and relax and enjoy yourself</b> - these are key to avoiding burnout. Look into “respite” programs to allow yourself a short break.
+        Also know the warning signs of depression and get help if needed. (See https://www.healthinaging.org/a-z-topic/depression for more information.)
+    </string><string name="care_h2_5">
+        <b>If an older person has dementia or other mental or emotional problems</b>, they may get angry or say hurtful things. Remind yourself that this is because of the disease.
+        Try not to take it to heart.
+    </string><string name="care_h2_6"><b>Talking about your experiences and feelings</b> can make caregiving less stressful. Consider joining a caregiver support group in your area.</string><string name="care_h2_7">
+        <b>A wide range of programs, agencies, organizations, and individuals</b> in your community can help you manage the challenges of caring for an older person.
+        This assistance may be free, or available at low cost.
+    </string><string name="care_header1_1">The following agencies and people can help you find the help you need:</string><string name="care_header3_1">Eldercare Locator</string><string name="care_h3_1">
+        Visit www.eldercare.gov to search for community services by zip code, city, or topic. Or call 800-677-1116 to speak with an Information Specialist. \n
+        You can find your local Area Agency on Aging through the Eldercare Locator. Among other things, an Area Agency on Aging caseworker can visit you and the older
+        person and give you information about different sources for the help you need, how much this help might cost, and how you can get financial help.
+    </string><string name="care_header3_2">Social workers</string><string name="care_h3_2">
+        Social workers at hospitals, clinics, and home health agencies, as well as specially trained geriatric care managers, can help, too.
+        The Aging Life Care Association (www.aginglifecare.org) can provide more information on geriatric care managers.
+        (Note: Insurance usually does not cover the cost of geriatric care manager assistance.)
+    </string><string name="care_header3_3">Other Community Resources</string><string name="care_h3_3">
+        Your local United Way and faith-based organizations can also help you find assistance. \n
+        Look into a Program of All Inclusive Care for the Elderly (PACE) program in your area, which can provide adult day care and medical care all under one roof.
+    </string><string name="care_header1_2">Among other things, these groups and individuals can help you find the following kinds of help:</string><string name="care_list">
+        <li>Financial assistance and advice on paying for the services the older adult needs, including assistance completing paper work.</li> \n\n
+        <li>Transportation to take the older adult shopping or to and from medical appointments.</li> \n\n
+        <li>Meals including help preparing meals or having meals delivered.</li> \n\n
+        <li>Home medical services including visits from house call physicians, registered nurses, private duty nurses, nurses aides, and/or a hospice team,
+            to manage medical problems in the comfort of home.</li> \n\n
+        <li>Respite care services which send trained helpers to the older adult’s home so you can take a break.</li> \n\n
+        <li>Reliable “home helpers” who can visit the older person for an hour or two at a time to help with bathing, light housekeeping, cooking, and errands.</li> \n\n
+        <li>Adult day care centers where older adults can go for several hours during the day for care supervised by healthcare staff. This care usually includes
+            social programs, recreation, and meals. Special adult day care programs are available for people with dementia, depression, and social problems.</li>
+    </string></file><file path="C:\Users\sheck\Downloads\MaterialMe\app\src\main\res\values\styles.xml" qualifiers=""><style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
         
         <item name="colorPrimary">@color/colorPrimary</item>
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>

@@ -2094,7 +2094,7 @@ public final class R {
      * <tr><td>barrier</td><td>2</td><td></td></tr>
      * <tr><td>chains</td><td>4</td><td></td></tr>
      * <tr><td>dimensions</td><td>8</td><td></td></tr>
-     * <tr><td>direct</td><td>1</td><td></td></tr>
+     * <tr><td>direct</td><td>1</td><td>direct, barriers, chains</td></tr>
      * <tr><td>groups</td><td>20</td><td></td></tr>
      * <tr><td>none</td><td>0</td><td></td></tr>
      * <tr><td>standard</td><td>7</td><td></td></tr>
@@ -4112,89 +4112,115 @@ public final class R {
     public static final int cane_w2=0x7f0d0048;
     public static final int cane_w3=0x7f0d0049;
     public static final int cane_w4=0x7f0d004a;
-    public static final int character_counter_pattern=0x7f0d004b;
-    public static final int diabetes_h2text_1=0x7f0d004c;
-    public static final int diabetes_h2text_2=0x7f0d004d;
-    public static final int diabetes_h2text_3=0x7f0d004e;
-    public static final int diabetes_h2text_4=0x7f0d004f;
-    public static final int diabetes_h2text_5=0x7f0d0050;
-    public static final int diabetes_h2text_6=0x7f0d0051;
-    public static final int diabetes_h2text_7=0x7f0d0052;
-    public static final int diabetes_h2text_8=0x7f0d0053;
-    public static final int diabetes_header2_1=0x7f0d0054;
-    public static final int diabetes_header2_2=0x7f0d0055;
-    public static final int diabetes_header2_3=0x7f0d0056;
-    public static final int diabetes_header2_4=0x7f0d0057;
-    public static final int diabetes_header2_5=0x7f0d0058;
-    public static final int diabetes_header2_6=0x7f0d0059;
-    public static final int diabetes_header2_7=0x7f0d005a;
-    public static final int diabetes_header2_8=0x7f0d005b;
-    public static final int diabetes_header3=0x7f0d005c;
-    public static final int diabetes_text1=0x7f0d005d;
-    public static final int diabetes_text2=0x7f0d005e;
-    public static final int diabetes_text3=0x7f0d005f;
-    public static final int diabetes_text4=0x7f0d0060;
-    public static final int news_placeholder=0x7f0d0061;
-    public static final int password_toggle_content_description=0x7f0d0062;
-    public static final int path_password_eye=0x7f0d0063;
-    public static final int path_password_eye_mask_strike_through=0x7f0d0064;
-    public static final int path_password_eye_mask_visible=0x7f0d0065;
-    public static final int path_password_strike_through=0x7f0d0066;
-    public static final int safesex_header2_1=0x7f0d0067;
-    public static final int safesex_header2_2=0x7f0d0068;
-    public static final int safesex_header2_3=0x7f0d0069;
-    public static final int safesex_header2_4=0x7f0d006a;
-    public static final int safesex_header3=0x7f0d006b;
-    public static final int safesex_text=0x7f0d006c;
-    public static final int safesex_text1=0x7f0d006d;
-    public static final int safesex_text2=0x7f0d006e;
-    public static final int safesex_text3=0x7f0d006f;
-    public static final int safesex_text4=0x7f0d0070;
-    public static final int search_menu_title=0x7f0d0071;
-    public static final int sports_info_placeholder=0x7f0d0072;
-    public static final int status_bar_notification_info_overflow=0x7f0d0073;
-    public static final int subtitle_detail_text=0x7f0d0074;
-    public static final int title_placeholder=0x7f0d0075;
-    public static final int travel_header2_1=0x7f0d0076;
-    public static final int travel_header2_2=0x7f0d0077;
-    public static final int travel_header2_3=0x7f0d0078;
-    public static final int travel_header2_4=0x7f0d0079;
-    public static final int travel_header2_5=0x7f0d007a;
-    public static final int travel_header2_6=0x7f0d007b;
-    public static final int travel_header2_7=0x7f0d007c;
-    public static final int travel_header2_8=0x7f0d007d;
-    public static final int travel_text=0x7f0d007e;
-    public static final int travel_text1=0x7f0d007f;
-    public static final int travel_text2=0x7f0d0080;
-    public static final int travel_text3=0x7f0d0081;
-    public static final int travel_text4=0x7f0d0082;
-    public static final int travel_text5=0x7f0d0083;
-    public static final int travel_text6=0x7f0d0084;
-    public static final int travel_text7=0x7f0d0085;
-    public static final int travel_text8=0x7f0d0086;
-    public static final int walk_header1_1=0x7f0d0087;
-    public static final int walk_header1_2=0x7f0d0088;
-    public static final int walk_header2_1=0x7f0d0089;
-    public static final int walk_header2_2=0x7f0d008a;
-    public static final int walk_header2_3=0x7f0d008b;
-    public static final int walk_header2_4=0x7f0d008c;
-    public static final int walk_header2_5=0x7f0d008d;
-    public static final int walk_header2_6=0x7f0d008e;
-    public static final int walk_header2_7=0x7f0d008f;
-    public static final int walk_header2_8=0x7f0d0090;
-    public static final int walk_header2_9=0x7f0d0091;
-    public static final int walk_header3_1=0x7f0d0092;
-    public static final int walk_list1=0x7f0d0093;
-    public static final int walk_text1=0x7f0d0094;
-    public static final int walk_text2=0x7f0d0095;
-    public static final int walk_text3=0x7f0d0096;
-    public static final int walk_text4=0x7f0d0097;
-    public static final int walk_text5=0x7f0d0098;
-    public static final int walk_text6=0x7f0d0099;
-    public static final int walk_text7=0x7f0d009a;
-    public static final int walk_text8=0x7f0d009b;
-    public static final int walk_text9=0x7f0d009c;
-    public static final int walking1=0x7f0d009d;
+    public static final int care_h2_1=0x7f0d004b;
+    public static final int care_h2_2=0x7f0d004c;
+    public static final int care_h2_3=0x7f0d004d;
+    public static final int care_h2_4=0x7f0d004e;
+    public static final int care_h2_5=0x7f0d004f;
+    public static final int care_h2_6=0x7f0d0050;
+    public static final int care_h2_7=0x7f0d0051;
+    public static final int care_h3_1=0x7f0d0052;
+    public static final int care_h3_2=0x7f0d0053;
+    public static final int care_h3_3=0x7f0d0054;
+    public static final int care_header1_1=0x7f0d0055;
+    public static final int care_header1_2=0x7f0d0056;
+    public static final int care_header2_1=0x7f0d0057;
+    public static final int care_header2_2=0x7f0d0058;
+    public static final int care_header2_3=0x7f0d0059;
+    public static final int care_header2_4=0x7f0d005a;
+    public static final int care_header2_5=0x7f0d005b;
+    public static final int care_header2_6=0x7f0d005c;
+    public static final int care_header2_7=0x7f0d005d;
+    public static final int care_header3=0x7f0d005e;
+    public static final int care_header3_1=0x7f0d005f;
+    public static final int care_header3_2=0x7f0d0060;
+    public static final int care_header3_3=0x7f0d0061;
+    public static final int care_list=0x7f0d0062;
+    public static final int care_text1=0x7f0d0063;
+    public static final int care_text2=0x7f0d0064;
+    public static final int character_counter_pattern=0x7f0d0065;
+    public static final int diabetes_h2text_1=0x7f0d0066;
+    public static final int diabetes_h2text_2=0x7f0d0067;
+    public static final int diabetes_h2text_3=0x7f0d0068;
+    public static final int diabetes_h2text_4=0x7f0d0069;
+    public static final int diabetes_h2text_5=0x7f0d006a;
+    public static final int diabetes_h2text_6=0x7f0d006b;
+    public static final int diabetes_h2text_7=0x7f0d006c;
+    public static final int diabetes_h2text_8=0x7f0d006d;
+    public static final int diabetes_header2_1=0x7f0d006e;
+    public static final int diabetes_header2_2=0x7f0d006f;
+    public static final int diabetes_header2_3=0x7f0d0070;
+    public static final int diabetes_header2_4=0x7f0d0071;
+    public static final int diabetes_header2_5=0x7f0d0072;
+    public static final int diabetes_header2_6=0x7f0d0073;
+    public static final int diabetes_header2_7=0x7f0d0074;
+    public static final int diabetes_header2_8=0x7f0d0075;
+    public static final int diabetes_header3=0x7f0d0076;
+    public static final int diabetes_text1=0x7f0d0077;
+    public static final int diabetes_text2=0x7f0d0078;
+    public static final int diabetes_text3=0x7f0d0079;
+    public static final int diabetes_text4=0x7f0d007a;
+    public static final int news_placeholder=0x7f0d007b;
+    public static final int password_toggle_content_description=0x7f0d007c;
+    public static final int path_password_eye=0x7f0d007d;
+    public static final int path_password_eye_mask_strike_through=0x7f0d007e;
+    public static final int path_password_eye_mask_visible=0x7f0d007f;
+    public static final int path_password_strike_through=0x7f0d0080;
+    public static final int safesex_header2_1=0x7f0d0081;
+    public static final int safesex_header2_2=0x7f0d0082;
+    public static final int safesex_header2_3=0x7f0d0083;
+    public static final int safesex_header2_4=0x7f0d0084;
+    public static final int safesex_header3=0x7f0d0085;
+    public static final int safesex_text=0x7f0d0086;
+    public static final int safesex_text1=0x7f0d0087;
+    public static final int safesex_text2=0x7f0d0088;
+    public static final int safesex_text3=0x7f0d0089;
+    public static final int safesex_text4=0x7f0d008a;
+    public static final int search_menu_title=0x7f0d008b;
+    public static final int sports_info_placeholder=0x7f0d008c;
+    public static final int status_bar_notification_info_overflow=0x7f0d008d;
+    public static final int subtitle_detail_text=0x7f0d008e;
+    public static final int title_placeholder=0x7f0d008f;
+    public static final int travel_header2_1=0x7f0d0090;
+    public static final int travel_header2_2=0x7f0d0091;
+    public static final int travel_header2_3=0x7f0d0092;
+    public static final int travel_header2_4=0x7f0d0093;
+    public static final int travel_header2_5=0x7f0d0094;
+    public static final int travel_header2_6=0x7f0d0095;
+    public static final int travel_header2_7=0x7f0d0096;
+    public static final int travel_header2_8=0x7f0d0097;
+    public static final int travel_text=0x7f0d0098;
+    public static final int travel_text1=0x7f0d0099;
+    public static final int travel_text2=0x7f0d009a;
+    public static final int travel_text3=0x7f0d009b;
+    public static final int travel_text4=0x7f0d009c;
+    public static final int travel_text5=0x7f0d009d;
+    public static final int travel_text6=0x7f0d009e;
+    public static final int travel_text7=0x7f0d009f;
+    public static final int travel_text8=0x7f0d00a0;
+    public static final int walk_header1_1=0x7f0d00a1;
+    public static final int walk_header1_2=0x7f0d00a2;
+    public static final int walk_header2_1=0x7f0d00a3;
+    public static final int walk_header2_2=0x7f0d00a4;
+    public static final int walk_header2_3=0x7f0d00a5;
+    public static final int walk_header2_4=0x7f0d00a6;
+    public static final int walk_header2_5=0x7f0d00a7;
+    public static final int walk_header2_6=0x7f0d00a8;
+    public static final int walk_header2_7=0x7f0d00a9;
+    public static final int walk_header2_8=0x7f0d00aa;
+    public static final int walk_header2_9=0x7f0d00ab;
+    public static final int walk_header3_1=0x7f0d00ac;
+    public static final int walk_list1=0x7f0d00ad;
+    public static final int walk_text1=0x7f0d00ae;
+    public static final int walk_text2=0x7f0d00af;
+    public static final int walk_text3=0x7f0d00b0;
+    public static final int walk_text4=0x7f0d00b1;
+    public static final int walk_text5=0x7f0d00b2;
+    public static final int walk_text6=0x7f0d00b3;
+    public static final int walk_text7=0x7f0d00b4;
+    public static final int walk_text8=0x7f0d00b5;
+    public static final int walk_text9=0x7f0d00b6;
+    public static final int walking1=0x7f0d00b7;
   }
   public static final class style {
     public static final int AlertDialog_AppCompat=0x7f0e0000;
@@ -9490,7 +9516,7 @@ public final class R {
      * <tr><td>barrier</td><td>2</td><td></td></tr>
      * <tr><td>chains</td><td>4</td><td></td></tr>
      * <tr><td>dimensions</td><td>8</td><td></td></tr>
-     * <tr><td>direct</td><td>1</td><td></td></tr>
+     * <tr><td>direct</td><td>1</td><td>direct, barriers, chains</td></tr>
      * <tr><td>groups</td><td>20</td><td></td></tr>
      * <tr><td>none</td><td>0</td><td></td></tr>
      * <tr><td>standard</td><td>7</td><td></td></tr>

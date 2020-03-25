@@ -1023,14 +1023,14 @@ public final class R {
         public static final int abc_toolbar_collapse_description = 0x7f0d001e;
         public static final int appbar_scrolling_view_behavior = 0x7f0d0020;
         public static final int bottom_sheet_behavior = 0x7f0d0021;
-        public static final int character_counter_pattern = 0x7f0d004b;
-        public static final int password_toggle_content_description = 0x7f0d0062;
-        public static final int path_password_eye = 0x7f0d0063;
-        public static final int path_password_eye_mask_strike_through = 0x7f0d0064;
-        public static final int path_password_eye_mask_visible = 0x7f0d0065;
-        public static final int path_password_strike_through = 0x7f0d0066;
-        public static final int search_menu_title = 0x7f0d0071;
-        public static final int status_bar_notification_info_overflow = 0x7f0d0073;
+        public static final int character_counter_pattern = 0x7f0d0065;
+        public static final int password_toggle_content_description = 0x7f0d007c;
+        public static final int path_password_eye = 0x7f0d007d;
+        public static final int path_password_eye_mask_strike_through = 0x7f0d007e;
+        public static final int path_password_eye_mask_visible = 0x7f0d007f;
+        public static final int path_password_strike_through = 0x7f0d0080;
+        public static final int search_menu_title = 0x7f0d008b;
+        public static final int status_bar_notification_info_overflow = 0x7f0d008d;
     }
     public static final class style {
         private style() {}
