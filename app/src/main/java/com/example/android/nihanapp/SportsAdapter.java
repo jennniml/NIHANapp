@@ -153,11 +153,10 @@ class SportsAdapter extends RecyclerView.Adapter<SportsAdapter.ViewHolder>  {
                     detailIntent =  new Intent(mContext, SafeSexActivity.class);
                     break;
 
-                        /*
                 case 4:
                     detailIntent =  new Intent(mContext, DiabetesActivity.class);
                     break;
-
+        /*
                 case 5:
                     detailIntent =  new Intent(mContext, CareActivity.class);
                     break;

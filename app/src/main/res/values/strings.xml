@@ -359,4 +359,66 @@
     </string>
 
 
+    <!--
+            Diabetes Tips Activity
+    -->
+
+    <string name="diabetes_header3">Diabetes is a common health problem among older people. More than 40 percent of Americans with diabetes are 65 or older.</string>
+    <string name="diabetes_text1">When your body digests food it converts much of it into glucose—a kind of sugar that your cells use for energy.
+        Your body also produces a hormone called insulin. Insulin helps you get the right amount of glucose in your bloodstream, which carries it to your cells. 
+        When something goes wrong with these processes, the result is diabetes.</string>
+    <string name="diabetes_text2">
+        <b>What is diabetes?</b> Diabetes develops when the amount of sugar in your blood becomes too high, either because your body doesn’t make enough insulin
+        (type 1 diabetes), because your body doesn’t respond to insulin (type 2 diabetes), or both. The extra sugar in your blood can damage parts of your body,
+        such as your eyes or kidneys. People with type 1 usually develop diabetes in childhood or as teenagers. Older people are particularly likely to develop
+        type 2 diabetes because your body’s ability to manage sugar declines with age. Being overweight can also cause diabetes.</string>
+    <string name="diabetes_text3">
+        <b>Diabetes can’t be cured but it can be managed.</b> If you have diabetes, you should work closely with your healthcare providers to keep your blood pressure,
+        cholesterol, and sugar levels under control.
+    </string>
+    <string name="diabetes_text4">Here’s some expert advice, from the Health in Aging Foundation, for older adults with diabetes and their caregivers.</string>
+
+    <string name="diabetes_header2_1">Make a plan</string>
+    <string name="diabetes_header2_2">Make the most of free Medicare services</string>
+    <string name="diabetes_header2_3">Eat smaller portions</string>
+    <string name="diabetes_header2_4">Choose whole grain breads, cereals, and pasta</string>
+    <string name="diabetes_header2_5">Eat a wide variety of low- calorie produce</string>
+    <string name="diabetes_header2_6">Avoid sugary drinks and foods</string>
+    <string name="diabetes_header2_7">Get moving</string>
+    <string name="diabetes_header2_8">Slim down</string>
+
+    <string name="diabetes_h2text_1">
+        <b>Work with your healthcare providers to develop a diabetes treatment plan.</b> For many patients, the diabetes educator is an important member of your
+        team who can teach you about the best way to eat and stay active. Medicare will cover a visit to a diabetes educator if you and your healthcare provider
+        think that you need this. Your treatment plan should meet your needs <i>and your wishes</i>.
+    </string>
+    <string name="diabetes_h2text_2">
+        <b>If you need more help learning how to keep your diabetes under control</b>, Medicare will cover a visit with a diabetes educator once a year.
+        Ask your healthcare provider to give you a referral.
+    </string>
+    <string name="diabetes_h2text_3"><b>Eating more small meals</b> over the course of the day can help keep your blood sugar levels steadier than eating three large meals.</string>
+    <string name="diabetes_h2text_4">
+        <b>Whole grains have more fiber, and take longer to digest</b> than white flour and other refined starches. Whole grains, such as whole wheat flour, brown rice,
+        oats and barley, can help keep your blood sugar levels steadier.
+    </string>
+    <string name="diabetes_h2text_5">
+        Choose bright or deep-colored fruits and vegetables such as spinach, green or red lettuce, tomatoes, carrots, broccoli, squash, or sweet potatoes. \n
+        These foods are better choices than white potatoes or iceberg lettuce.
+    </string>
+    <string name="diabetes_h2text_6">
+        <b>Drink water or unsweetened tea instead of soft drinks</b> or other beverages high in natural or added sugar. \n
+        Enjoy fresh fruits for dessert. \n
+        Avoid processed and prepared foods. These often contain corn syrup, and are high in fat and salt.
+    </string>
+    <string name="diabetes_h2text_7">
+        <b>Even small increases in physical activity can help</b> you control your blood sugar and blood pressure levels, and can help preserve your ability to
+        live independently. \n
+        Talk to your healthcare provider about how to get started if you haven’t been exercising for a while. If your healthcare provider says it is safe,
+        start with at least 20 minutes of exercise at least three times a week. If you exercise more often, you’ll see even greater benefits.
+    </string>
+    <string name="diabetes_h2text_8">
+        <b>If you are overweight, losing even 5 to 10 pounds</b> can help make your diabetes easier to treat. You can do this by both eating well and exercising regularly.
+    </string>
+
+
 </resources>
