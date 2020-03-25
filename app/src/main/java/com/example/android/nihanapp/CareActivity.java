@@ -20,6 +20,7 @@ public class CareActivity extends AppCompatActivity {
         final ConstraintLayout expandableView, expandableView2;
         final ImageView arrowBtn, arrowBtn2;
         final CardView cardView, cardView2;
+        final TextView colorText;
 
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_care);
@@ -35,6 +36,8 @@ public class CareActivity extends AppCompatActivity {
         Glide.with(this).load(getIntent().getIntExtra("image_resource",0))
                 .into(sportsImage);
 
+
+        // Expanding layout
         expandableView = findViewById(R.id.expandableView);
         arrowBtn = findViewById(R.id.arrowBtn);
         cardView = findViewById(R.id.cardView);

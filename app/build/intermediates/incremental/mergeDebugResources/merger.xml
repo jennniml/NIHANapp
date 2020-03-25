@@ -2278,14 +2278,14 @@
         Your local United Way and faith-based organizations can also help you find assistance. \n
         Look into a Program of All Inclusive Care for the Elderly (PACE) program in your area, which can provide adult day care and medical care all under one roof.
     </string><string name="care_header1_2">Among other things, these groups and individuals can help you find the following kinds of help:</string><string name="care_list">
-        <li>Financial assistance and advice on paying for the services the older adult needs, including assistance completing paper work.</li> \n\n
-        <li>Transportation to take the older adult shopping or to and from medical appointments.</li> \n\n
-        <li>Meals including help preparing meals or having meals delivered.</li> \n\n
-        <li>Home medical services including visits from house call physicians, registered nurses, private duty nurses, nurses aides, and/or a hospice team,
+        <li><b>Financial</b> assistance and advice on paying for the services the older adult needs, including assistance completing paper work.</li> \n\n
+        <li><b>Transportation</b> to take the older adult shopping or to and from medical appointments.</li> \n\n
+        <li><b>Meals</b> including help preparing meals or having meals delivered.</li> \n\n
+        <li><b>Home medical services</b> including visits from house call physicians, registered nurses, private duty nurses, nurses aides, and/or a hospice team,
             to manage medical problems in the comfort of home.</li> \n\n
-        <li>Respite care services which send trained helpers to the older adult’s home so you can take a break.</li> \n\n
-        <li>Reliable “home helpers” who can visit the older person for an hour or two at a time to help with bathing, light housekeeping, cooking, and errands.</li> \n\n
-        <li>Adult day care centers where older adults can go for several hours during the day for care supervised by healthcare staff. This care usually includes
+        <li><b>Respite care services</b> which send trained helpers to the older adult’s home so you can take a break.</li> \n\n
+        <li><b>Reliable “home helpers”</b> who can visit the older person for an hour or two at a time to help with bathing, light housekeeping, cooking, and errands.</li> \n\n
+        <li><b>Adult day care</b> centers where older adults can go for several hours during the day for care supervised by healthcare staff. This care usually includes
             social programs, recreation, and meals. Special adult day care programs are available for people with dementia, depression, and social problems.</li>
     </string></file><file path="C:\Users\sheck\Downloads\MaterialMe\app\src\main\res\values\styles.xml" qualifiers=""><style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
         
