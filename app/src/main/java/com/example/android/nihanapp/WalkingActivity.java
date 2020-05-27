@@ -1,9 +1,14 @@
 package com.example.android.nihanapp;
 
+import android.graphics.Color;
+import android.graphics.Typeface;
 import android.support.constraint.ConstraintLayout;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.support.v7.widget.CardView;
+import android.text.SpannableStringBuilder;
+import android.text.style.ForegroundColorSpan;
+import android.text.style.StyleSpan;
 import android.transition.AutoTransition;
 import android.transition.TransitionManager;
 import android.view.View;
@@ -74,5 +79,24 @@ public class WalkingActivity extends AppCompatActivity {
             }
         });
 
+
+        // Text Spans
+        TextView mTextView = (TextView) findViewById(R.id.walk_text_1);
+        String textSpan = getResources().getString(R.string.walk_text1);
+        SpannableStringBuilder spannable = new SpannableStringBuilder(textSpan);
+        spannable.setSpan(
+                new ForegroundColorSpan(Color.RED),
+                8, 12,
+                0
+        );
+        mTextView.setText(spannable);
+        /*
+        spannable.setSpan(
+                new StyleSpan(Typeface.BOLD),
+                8, spannable.length(),
+                0
+        );
+
+         */
     }
 }

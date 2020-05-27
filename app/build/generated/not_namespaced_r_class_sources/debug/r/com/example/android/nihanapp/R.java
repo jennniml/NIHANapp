@@ -3945,9 +3945,10 @@ public final class R {
     public static final int useLogo=0x7f0900e2;
     public static final int view_offset_helper=0x7f0900e3;
     public static final int visible=0x7f0900e4;
-    public static final int withText=0x7f0900e5;
-    public static final int wrap=0x7f0900e6;
-    public static final int wrap_content=0x7f0900e7;
+    public static final int walk_text_1=0x7f0900e5;
+    public static final int withText=0x7f0900e6;
+    public static final int wrap=0x7f0900e7;
+    public static final int wrap_content=0x7f0900e8;
   }
   public static final class integer {
     public static final int abc_config_activityDefaultDur=0x7f0a0000;

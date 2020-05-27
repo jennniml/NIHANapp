@@ -1,9 +1,16 @@
 package com.example.android.nihanapp;
 
+import android.graphics.Color;
+import android.graphics.Typeface;
 import android.support.constraint.ConstraintLayout;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.support.v7.widget.CardView;
+import android.text.Spannable;
+import android.text.SpannableString;
+import android.text.SpannableStringBuilder;
+import android.text.style.ForegroundColorSpan;
+import android.text.style.StyleSpan;
 import android.transition.AutoTransition;
 import android.transition.TransitionManager;
 import android.view.View;
@@ -20,7 +27,6 @@ public class CareActivity extends AppCompatActivity {
         final ConstraintLayout expandableView, expandableView2;
         final ImageView arrowBtn, arrowBtn2;
         final CardView cardView, cardView2;
-        final TextView colorText;
 
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_care);
@@ -36,6 +42,20 @@ public class CareActivity extends AppCompatActivity {
         Glide.with(this).load(getIntent().getIntExtra("image_resource",0))
                 .into(sportsImage);
 
+        // Text Spans
+        /*
+        String textSpan = getString(R.string.care_text1);
+        SpannableStringBuilder spannable = new SpannableStringBuilder(textSpan);
+        spannable.setSpan(
+                new ForegroundColorSpan(Color.RED),
+                8, 12,
+                0
+        );
+        spannable.setSpan(
+                new StyleSpan(Typeface.BOLD),
+                8, spannable.length(),
+                0
+        );*/
 
         // Expanding layout
         expandableView = findViewById(R.id.expandableView);

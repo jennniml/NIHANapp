@@ -2156,17 +2156,17 @@
     </string><string name="travel_text5">
         <li><b>Make a list of all prescriptions, including over-the-counter medications and supplements you take</b>, including the dose, what time you take the
             medications, and what they are for. Ask your pharmacist or healthcare provider to help you create this list and ask them to review it for accuracy.
-            The list should include both generic and brand drug names and the amount of each medication you need to take with you on your trip.</li>\n
-        <li><b>Ask your healthcare provider for a list of current medical conditions</b> you have and how they’re being treated.</li>\n
+            The list should include both generic and brand drug names and the amount of each medication you need to take with you on your trip.</li>\n\n
+        <li><b>Ask your healthcare provider for a list of current medical conditions</b> you have and how they’re being treated.</li>\n\n
         <li><b>Have your healthcare providers’ contact information</b> in writing as well as for emergency purposes.</li>\n\n
         Having all of this on paper will make it easier for you to get through customs, and easier to get replacement medications if you lose any while traveling.
         Make a copy of these lists. Carry one with you, and keep the other in your suitcase.
     </string><string name="travel_text6">
         <b>Do this with prescription and over-the-counter medicines, and supplements.</b> This will also make your trip through customs easier.
     </string><string name="travel_text7"><b>Pack your medications in your carry-on bag</b> to avoid loss or damage.</string><string name="travel_text8">
-        <li><b>Wash your hands or use an alcohol-based hand sanitizer</b>, especially after spending time on a crowded plane, train, or bus, and before eating.</li>\n
+        <li><b>Wash your hands or use an alcohol-based hand sanitizer</b>, especially after spending time on a crowded plane, train, or bus, and before eating.</li>\n\n
         <li><b>Use common sense when choosing what to eat and drink.</b> Avoid brushing your teeth with water that isn’t safe to drink. The CDC travel site
-            <b>http://wwwnc.cdc.gov/travel/</b> includes country-by-country information on illnesses you can get from food and water and how to avoid them.</li>\n
+            <b>http://wwwnc.cdc.gov/travel/</b> includes country-by-country information on illnesses you can get from food and water and how to avoid them.</li>\n\n
         <li><b>Drink plenty of water when traveling, especially when going by plane.</b> The air inside planes is dry, so bring a large bottle of water with you
             and drink reguarly even if you do not feel thirsty. Or ask for water every time the flight attendant offers a drink instead of soda or coffee, which can
             dry you out even more.</li>
@@ -2233,7 +2233,7 @@
     </string><string name="diabetes_h2text_8">
         <b>If you are overweight, losing even 5 to 10 pounds</b> can help make your diabetes easier to treat. You can do this by both eating well and exercising regularly.
     </string><string name="care_text1">
-        <b>As many as 43.5 million Americans care for older parents, grandparents, spouses, and other older adults.</b> Some older adults need only a little assistance,
+        As many as 43.5 million Americans care for older parents, grandparents, spouses, and other older adults. Some older adults need only a little assistance,
         such as help with shoveling snow or rides to and from the grocery store. Others need a lot of help with daily activities like eating, bathing, dressing, taking
         medications, and managing money. Over time, some older adults with increasing medical problems often need significant help from caregivers in performing
         activities of basic living.

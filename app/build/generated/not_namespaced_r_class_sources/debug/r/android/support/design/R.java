@@ -906,7 +906,7 @@ public final class R {
         public static final int up = 0x7f0900e1;
         public static final int view_offset_helper = 0x7f0900e3;
         public static final int visible = 0x7f0900e4;
-        public static final int wrap_content = 0x7f0900e7;
+        public static final int wrap_content = 0x7f0900e8;
     }
     public static final class integer {
         private integer() {}

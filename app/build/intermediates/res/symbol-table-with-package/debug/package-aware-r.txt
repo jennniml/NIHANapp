@@ -1062,6 +1062,7 @@ id up
 id useLogo
 id view_offset_helper
 id visible
+id walk_text_1
 id withText
 id wrap
 id wrap_content
